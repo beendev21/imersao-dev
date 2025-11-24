@@ -43,22 +43,4 @@ Meta LLaMA: Modelo de código aberto (Open Weight) focado em performance.
 
 Mistral AI: Modelos Open Source leves e de alto desempenho.
 
-🛠️ Como Utilizar
-Clone o Repositório:
-
-Bash
-
-gh repo clone adilson-psantos/imersao-dev-10
-Navegue até a Pasta:
-
-Bash
-
-cd catalogo-ia
-Abra o index.html: Simplesmente abra o arquivo index.html no seu navegador para ver o catálogo.
-
-Se o seu projeto precisar de uma chave API para rodar o Gemini, adicione as instruções de como configurar essa chave (ex: criando um arquivo .env ou adicionando-a a um arquivo JS específico).
-
-🤝 Contribuição
-Sinta-se à vontade para contribuir com a comunidade! Adicionar novos modelos ou corrigir informações existentes é muito bem-vindo.
-
 
