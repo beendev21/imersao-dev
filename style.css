@@ -1,0 +1,267 @@
+/* Definição de variáveis de cor (Tema Claro - Padrão) */
+:root {
+    --bg-color: #f4f7f9;
+    --text-color: #333;
+    --header-bg: #2c3e50;
+    --header-text: white;
+    --card-bg: white;
+    --card-shadow: rgba(0,0,0,0.08);
+    --card-shadow-hover: rgba(0,0,0,0.12);
+    --card-heading-color: #2c3e50;
+    --link-color: #3498db;
+    --search-bg: #34495e;
+    --search-border: #7f8c8d;
+    --search-placeholder: #bdc3c7;
+    /* Novas variáveis para os botões de categoria */
+    --category-btn-bg: #34495e;
+    --category-btn-text: white;
+    --category-btn-border: #7f8c8d;
+    --category-btn-hover-bg: #4e6a85;
+    --category-btn-active-bg: #3498db;
+    --category-btn-active-text: white;
+}
+
+/* Estilos Gerais */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Cabeçalho */
+header {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    transition: background-color 0.3s;
+}
+
+.header-controls {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-container h1 {
+    margin: 0;
+    font-size: 1.7em;
+    font-weight: 600;
+}
+
+/* Container da Busca */
+.busca-container {
+    position: relative;
+}
+
+.busca-container input {
+    padding: 10px 15px;
+    padding-right: 70px; /* Espaço para os dois botões */
+    border-radius: 20px;
+    border: 1px solid #7f8c8d;
+    min-width: 300px;
+    font-size: 1em;
+    background-color: var(--search-bg);
+    color: var(--header-text);
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.busca-container input::placeholder {
+    color: var(--search-placeholder);
+}
+
+.busca-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--search-placeholder);
+    padding: 8px;
+}
+
+.busca-btn#btn-busca {
+    right: 5px;
+}
+.busca-btn#btn-limpa-busca {
+    right: 40px;
+}
+
+/* Botão de Tema */
+.theme-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.theme-btn .icon {
+    color: var(--header-text);
+}
+
+/* Conteúdo Principal */
+main {
+    padding: 2rem;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 25px;
+}
+
+/* Estilo dos Cards */
+.card {
+    background: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px var(--card-shadow);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.card h2 {
+    margin-top: 0;
+    color: var(--card-heading-color);
+}
+
+.card a {
+    display: inline-block;
+    margin-top: auto; /* Empurra o link para o final do card */
+    padding-top: 10px;
+    text-decoration: none;
+    color: var(--link-color);
+    font-weight: bold;
+}
+
+/* Tema Escuro */
+.dark-theme {
+    --bg-color: #1a202c;
+    --text-color: #e2e8f0;
+    --header-bg: #12161f;
+    --card-bg: #2d3748;
+    --card-shadow: rgba(0,0,0,0.2);
+    --card-shadow-hover: rgba(0,0,0,0.4);
+    --card-heading-color: #edf2f7;
+    --link-color: #63b3ed;
+    --search-bg: #4a5568;
+    --search-border: #718096;
+    --search-placeholder: #a0aec0;
+}
+/* Tema Escuro - Variáveis de Categoria */
+.dark-theme {
+    --category-btn-bg: #4a5568;
+    --category-btn-text: #e2e8f0;
+    --category-btn-border: #718096;
+    --category-btn-hover-bg: #5a6a82;
+    --category-btn-active-bg: #63b3ed;
+    --category-btn-active-text: #1a202c;
+}
+
+/* Estilos para o contêiner de categorias */
+.category-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px; /* Espaçamento entre os botões */
+    margin: 0 20px; /* Espaçamento das laterais */
+}
+
+/* Estilos para os botões de categoria */
+.category-btn {
+    background-color: var(--category-btn-bg);
+    color: var(--category-btn-text);
+    border: 1px solid var(--category-btn-border);
+    border-radius: 20px;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+    white-space: nowrap; /* Evita que o texto do botão quebre */
+    font-weight: 500;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* Rodapé */
+footer {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    padding: 1.5rem 2rem;
+    margin-top: auto; /* Empurra o rodapé para o final da página */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.social-links {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.social-links a {
+    color: var(--header-text);
+    opacity: 0.7;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.social-links a:hover {
+    opacity: 1;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* Estilo do botão de categoria ao passar o mouse */
+.category-btn:hover {
+    background-color: var(--category-btn-hover-bg);
+}
+
+/* Estilo para o botão de categoria ativo (selecionado) */
+.category-btn.active {
+    background-color: var(--category-btn-active-bg);
+    color: var(--category-btn-active-text);
+    border-color: var(--category-btn-active-bg);
+}
+
+/* Ajustes para o cabeçalho em telas menores */
+@media (max-width: 992px) {
+    header {
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+    }
+}

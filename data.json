@@ -1,0 +1,3660 @@
+[
+  {
+    "nome": "ChatGPT (GPT-4)",
+    "descricao": "Modelo de linguagem da OpenAI, famoso por sua capacidade de conversação fluida, geração de texto criativo, tradução e resposta a uma vasta gama de perguntas. É baseado na arquitetura Generative Pre-trained Transformer (GPT).",
+    "data_criacao": "2022 (Lançamento do ChatGPT)",
+    "link": "https://openai.com/chatgpt",
+    "tags": [
+      "modelo",
+      "llm",
+      "openai",
+      "ia generativa",
+      "chatbot"
+    ]
+  },
+  {
+    "nome": "Gemini",
+    "descricao": "Família de modelos de IA multimodais desenvolvida pelo Google. É capaz de compreender, operar e combinar nativamente diferentes tipos de informação, como texto, código, áudio, imagens e vídeo.",
+    "data_criacao": "2023",
+    "link": "https://deepmind.google/technologies/gemini/",
+    "tags": [
+      "modelo",
+      "llm",
+      "google",
+      "multimodal"
+    ]
+  },
+  {
+    "nome": "Claude",
+    "descricao": "Modelo de linguagem desenvolvido pela Anthropic, focado em ser útil, inofensivo e honesto. É conhecido por sua grande janela de contexto, permitindo analisar documentos extensos, e por seu forte alinhamento com a segurança.",
+    "data_criacao": "2023",
+    "link": "https://www.anthropic.com/news/claude-3-family",
+    "tags": [
+      "modelo",
+      "llm",
+      "anthropic",
+      "segurança",
+      "chatbot"
+    ]
+  },
+  {
+    "nome": "DALL-E 3",
+    "descricao": "Modelo de IA da OpenAI que gera imagens a partir de descrições textuais (prompts). É conhecido por criar imagens artísticas e realistas com alta fidelidade ao que o usuário pede, integrado ao ChatGPT.",
+    "data_criacao": "2023",
+    "link": "https://openai.com/dall-e-3",
+    "tags": [
+      "modelo",
+      "ia generativa",
+      "imagem",
+      "openai"
+    ]
+  },
+  {
+    "nome": "Midjourney",
+    "descricao": "Laboratório de pesquisa independente e o nome de seu programa de inteligência artificial que cria imagens a partir de descrições textuais. É famoso por seu estilo artístico e estético único, muito popular em comunidades criativas.",
+    "data_criacao": "2022",
+    "link": "https://www.midjourney.com/",
+    "tags": [
+      "modelo",
+      "ia generativa",
+      "imagem",
+      "arte"
+    ]
+  },
+  {
+    "nome": "Stable Diffusion",
+    "descricao": "Modelo de aprendizado profundo de texto para imagem, notável por ser de código aberto. Permite que desenvolvedores e usuários o executem em hardware pessoal, fomentando uma vasta comunidade de inovação.",
+    "data_criacao": "2022",
+    "link": "https://stability.ai/",
+    "tags": [
+      "modelo",
+      "ia generativa",
+      "imagem",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Llama",
+    "descricao": "Família de modelos de linguagem de código aberto desenvolvida pela Meta (Facebook). Projetada para ser mais acessível à comunidade de pesquisa, impulsionando o desenvolvimento aberto no campo da IA.",
+    "data_criacao": "2023",
+    "link": "https://ai.meta.com/llama/",
+    "tags": [
+      "modelo",
+      "llm",
+      "meta",
+      "open source"
+    ]
+  },
+  {
+    "nome": "BERT (Bidirectional Encoder Representations from Transformers)",
+    "descricao": "Modelo de linguagem pré-treinado do Google que revolucionou o NLP ao usar uma arquitetura Transformer bidirecional para entender o contexto de palavras em ambas as direções.",
+    "data_criacao": "2018",
+    "link": "https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html",
+    "tags": [
+      "llm",
+      "nlp",
+      "transformer",
+      "pré-treinamento"
+    ]
+  },
+  {
+    "nome": "Mistral 7B",
+    "descricao": "Um LLM pequeno e altamente eficiente, desenvolvido pela Mistral AI, conhecido por sua alta performance em relação ao seu tamanho e por ser distribuído sob uma licença permissiva.",
+    "data_criacao": "2023",
+    "link": "https://mistral.ai/",
+    "tags": [
+      "llm",
+      "modelo aberto",
+      "ia generativa",
+      "nlp"
+    ]
+  },
+  {
+    "nome": "Hugging Face Transformers",
+    "descricao": "Uma biblioteca popular que fornece milhares de modelos pré-treinados (como BERT, GPT-2, T5) e ferramentas para implementações rápidas de NLP e modelos generativos.",
+    "data_criacao": "2019",
+    "link": "https://huggingface.co/docs/transformers/index",
+    "tags": [
+      "framework",
+      "biblioteca",
+      "nlp",
+      "ia generativa",
+      "comunidade"
+    ]
+  },
+  {
+    "nome": "PyTorch",
+    "descricao": "Um framework de aprendizado de máquina open-source desenvolvido pelo Facebook (Meta AI) conhecido por seu grafo computacional dinâmico, popular em pesquisa e desenvolvimento rápido.",
+    "data_criacao": "2016",
+    "link": "https://pytorch.org/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "biblioteca",
+      "código aberto"
+    ]
+  },
+  {
+    "nome": "GANs (Generative Adversarial Networks)",
+    "descricao": "Um tipo de modelo de IA generativa onde duas redes neurais (Gerador e Discriminador) competem em um jogo de soma zero para criar conteúdo novo e realista, como imagens.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1406.2661",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "deep learning",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "VAE (Variational Autoencoder)",
+    "descricao": "Um tipo de modelo generativo que aprende uma representação latente comprimida dos dados, usado para geração de amostras e redução de dimensionalidade.",
+    "data_criacao": "2013",
+    "link": "https://arxiv.org/abs/1312.6114",
+    "tags": [
+      "ia generativa",
+      "deep learning",
+      "codificador",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "AlphaFold",
+    "descricao": "Um sistema de IA desenvolvido pela DeepMind que prevê a estrutura 3D das proteínas a partir de sua sequência de aminoácidos, acelerando drasticamente a pesquisa biológica.",
+    "data_criacao": "2020",
+    "link": "https://www.deepmind.com/research/highlighted-research/alphafold",
+    "tags": [
+      "biologia",
+      "deep learning",
+      "aplicação",
+      "estrutura de proteínas"
+    ]
+  },
+  {
+    "nome": "Whisper",
+    "descricao": "Modelo de reconhecimento automático de fala (ASR) open-source da OpenAI, altamente robusto e capaz de transcrever e traduzir áudio em múltiplos idiomas.",
+    "data_criacao": "2022",
+    "link": "https://openai.com/research/whisper",
+    "tags": [
+      "reconhecimento de fala",
+      "nlp",
+      "modelo aberto",
+      "áudio"
+    ]
+  },
+  {
+    "nome": "Mecanismo de Atenção (Attention Mechanism)",
+    "descricao": "Um componente fundamental nas arquiteturas Transformer, que permite ao modelo focar em partes relevantes da entrada ao processar sequências, melhorando a contextualização.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1706.03762",
+    "tags": [
+      "conceito",
+      "deep learning",
+      "arquitetura",
+      "nlp"
+    ]
+  },
+  {
+    "nome": "Arquitetura Transformer",
+    "descricao": "Arquitetura de rede neural introduzida em 'Attention Is All You Need', base de todos os LLMs modernos e modelos generativos devido à sua eficiência em processar sequências longas.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1706.03762",
+    "tags": [
+      "arquitetura",
+      "deep learning",
+      "nlp",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "LangChain",
+    "descricao": "Um framework de orquestração projetado para desenvolver aplicações que utilizam LLMs, permitindo encadear chamadas a modelos, gerenciar memória e interagir com fontes de dados externas.",
+    "data_criacao": "2022",
+    "link": "https://www.langchain.com/",
+    "tags": [
+      "framework",
+      "llm",
+      "desenvolvimento",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "RAG (Retrieval-Augmented Generation)",
+    "descricao": "Técnica que melhora a acurácia dos LLMs, recuperando informações factuais de bases de dados externas ou documentos antes de gerar uma resposta, mitigando alucinações.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2005.11401",
+    "tags": [
+      "técnica",
+      "llm",
+      "nlp",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "MLOps",
+    "descricao": "Disciplina que foca na implantação, monitoramento e gerenciamento de modelos de Machine Learning em produção, combinando princípios de DevOps com práticas de ML.",
+    "data_criacao": "2018",
+    "link": "https://cloud.google.com/architecture/mlops",
+    "tags": [
+      "conceito",
+      "engenharia",
+      "infraestrutura",
+      "operações"
+    ]
+  },
+  {
+    "nome": "Keras",
+    "descricao": "Uma API de alto nível, amigável e modular para construir e treinar redes neurais, frequentemente usada em conjunto com TensorFlow, focada na experimentação rápida.",
+    "data_criacao": "2015",
+    "link": "https://keras.io/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "biblioteca",
+      "interface"
+    ]
+  },
+  {
+    "nome": "AutoML (Automated Machine Learning)",
+    "descricao": "O processo de automatizar as tarefas repetitivas e complexas do fluxo de trabalho de Machine Learning, como seleção de modelo, engenharia de recursos e ajuste de hiperparâmetros.",
+    "data_criacao": "2015",
+    "link": "https://www.automl.org/",
+    "tags": [
+      "conceito",
+      "ferramenta",
+      "machine learning",
+      "automação"
+    ]
+  },
+  {
+    "nome": "StyleGAN",
+    "descricao": "Uma série de arquiteturas GAN desenvolvidas pela NVIDIA, famosas por gerar imagens fotorealistas de alta resolução, especialmente rostos humanos sintéticos.",
+    "data_criacao": "2018",
+    "link": "https://arxiv.org/abs/1812.04948",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "deep learning",
+      "modelo"
+    ]
+  },
+  {
+    "nome": "Imagen",
+    "descricao": "Um modelo de difusão text-to-image desenvolvido pelo Google que se destacou por sua capacidade de gerar imagens com um alto grau de fotorrealismo e fidelidade ao prompt de texto.",
+    "data_criacao": "2022",
+    "link": "https://imagen.research.google/",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "modelo",
+      "text-to-image"
+    ]
+  },
+  {
+    "nome": "Falcon 180B",
+    "descricao": "Um LLM massivo de código aberto desenvolvido pelo Technology Innovation Institute (TII) de Abu Dhabi, conhecido por ser um dos maiores modelos abertos já lançados.",
+    "data_criacao": "2023",
+    "link": "https://falconllm.tii.ae/",
+    "tags": [
+      "llm",
+      "modelo aberto",
+      "ia generativa",
+      "nlp"
+    ]
+  },
+  {
+    "nome": "BLOOM (BigScience Large Open-science Open-access Multilingual Language Model)",
+    "descricao": "Um LLM multilíngue de código aberto treinado por uma colaboração global de milhares de pesquisadores, sendo um dos maiores modelos criados fora das grandes corporações de tecnologia.",
+    "data_criacao": "2022",
+    "link": "https://bigscience.huggingface.co/blog/bloom",
+    "tags": [
+      "llm",
+      "modelo aberto",
+      "nlp",
+      "multilíngue"
+    ]
+  },
+  {
+    "nome": "Aprendizado por Transferência (Transfer Learning)",
+    "descricao": "Técnica de machine learning onde um modelo pré-treinado em uma tarefa é reutilizado como ponto de partida para um novo modelo em uma tarefa relacionada, economizando tempo e recursos.",
+    "data_criacao": "2010",
+    "link": "https://cs230.stanford.edu/blog/transfer-learning/",
+    "tags": [
+      "conceito",
+      "deep learning",
+      "técnica",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "XGBoost (Extreme Gradient Boosting)",
+    "descricao": "Uma biblioteca otimizada de gradient boosting, extremamente popular para competições de ML e problemas de dados tabulares devido à sua velocidade e precisão.",
+    "data_criacao": "2016",
+    "link": "https://xgboost.readthedocs.io/en/stable/",
+    "tags": [
+      "algoritmo",
+      "machine learning",
+      "framework",
+      "boosting"
+    ]
+  },
+  {
+    "nome": "Aprendizado por Reforço (Reinforcement Learning - RL)",
+    "descricao": "Um paradigma de Machine Learning onde um agente aprende a tomar decisões em um ambiente para maximizar uma recompensa cumulativa, fundamental para treinamento de IAs em jogos e robótica.",
+    "data_criacao": "1989",
+    "link": "https://deepmind.com/learning-resources/reinforcement-learning-introduction",
+    "tags": [
+      "paradigma",
+      "machine learning",
+      "algoritmo",
+      "robótica"
+    ]
+  },
+  {
+    "nome": "Modelos de Difusão (Diffusion Models)",
+    "descricao": "Uma classe de modelos generativos que geram dados (como imagens) revertendo um processo de ruído gradual. Eles são a base para a maioria dos modelos modernos de geração de imagem de alta qualidade.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1503.03585",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "deep learning",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Weights & Biases (W&B)",
+    "descricao": "Uma plataforma de MLOps usada para rastrear experimentos de machine learning, visualizar métricas, gerenciar conjuntos de dados e colaborar no desenvolvimento de modelos.",
+    "data_criacao": "2018",
+    "link": "https://wandb.ai/",
+    "tags": [
+      "ferramenta",
+      "mlops",
+      "rastreamento",
+      "visualização"
+    ]
+  },
+  {
+    "nome": "PaddlePaddle",
+    "descricao": "Um framework de Deep Learning desenvolvido pela Baidu, conhecido por sua facilidade de uso e otimizações de desempenho para o idioma chinês, com forte foco em produção.",
+    "data_criacao": "2016",
+    "link": "https://www.paddlepaddle.org.cn/en",
+    "tags": [
+      "framework",
+      "deep learning",
+      "código aberto",
+      "china"
+    ]
+  },
+  {
+    "nome": "T5 (Text-to-Text Transfer Transformer)",
+    "descricao": "Um modelo de linguagem que reformula todas as tarefas de processamento de linguagem natural como um problema de 'texto para texto', permitindo que o mesmo modelo, objetivo e procedimento de treinamento sejam usados em todas as tarefas.",
+    "data_criacao": "2019",
+    "link": "https://ai.googleblog.com/2020/02/exploring-limits-of-transfer-learning.html",
+    "tags": [
+      "llm",
+      "modelo pre-treinado",
+      "transformer",
+      "processamento de linguagem"
+    ]
+  },
+  {
+    "nome": "CLIP (Contrastive Language–Image Pre-training)",
+    "descricao": "Um modelo neural treinado em uma variedade de pares de texto e imagem, capaz de entender e realizar zero-shot learning em tarefas de visão computacional guiadas por linguagem natural.",
+    "data_criacao": "2021",
+    "link": "https://openai.com/research/clip",
+    "tags": [
+      "visão computacional",
+      "modelos multimodais",
+      "zero-shot learning",
+      "openai"
+    ]
+  },
+  {
+    "nome": "YOLO (You Only Look Once)",
+    "descricao": "Uma série de modelos de detecção de objetos em tempo real conhecida por sua velocidade e precisão, realizando a classificação e localização de objetos em uma única passagem pela rede neural.",
+    "data_criacao": "2016",
+    "link": "https://pjreddie.com/darknet/yolo/",
+    "tags": [
+      "visão computacional",
+      "detecção de objetos",
+      "tempo real"
+    ]
+  },
+  {
+    "nome": "Zero-Shot Learning",
+    "descricao": "Um conceito de IA onde um modelo é capaz de resolver tarefas ou classificar dados que nunca viu durante o treinamento, contando apenas com descrições textuais ou atributos conceituais.",
+    "data_criacao": "2008",
+    "link": "https://arxiv.org/abs/1301.6377",
+    "tags": [
+      "conceito",
+      "aprendizado de máquina",
+      "generalização"
+    ]
+  },
+  {
+    "nome": "PEFT (Parameter-Efficient Fine-Tuning)",
+    "descricao": "Uma coleção de técnicas que permite o ajuste fino de grandes modelos de linguagem (LLMs) usando muito menos poder computacional e memória, ajustando apenas um pequeno subconjunto de parâmetros.",
+    "data_criacao": "2021",
+    "link": "https://huggingface.co/docs/peft/en/index",
+    "tags": [
+      "llm",
+      "otimização",
+      "tuning",
+      "framework"
+    ]
+  },
+  {
+    "nome": "LoRA (Low-Rank Adaptation)",
+    "descricao": "Uma técnica específica de PEFT que congela os pesos pré-treinados do modelo e insere matrizes de baixo posto (low-rank) para otimizar apenas as matrizes adicionais durante o ajuste fino.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2106.09685",
+    "tags": [
+      "otimização",
+      "llm",
+      "deep learning",
+      "ajuste fino"
+    ]
+  },
+  {
+    "nome": "FLAN (Fine-tuned LAnguage Net)",
+    "descricao": "Uma família de modelos de linguagem ajustados em uma vasta coleção de tarefas expressas em formato de instrução, melhorando drasticamente sua capacidade de seguir comandos (instruction tuning).",
+    "data_criacao": "2021",
+    "link": "https://ai.googleblog.com/2022/10/flan-scaling-instruction-finetuning.html",
+    "tags": [
+      "llm",
+      "instruction tuning",
+      "modelo pre-treinado"
+    ]
+  },
+  {
+    "nome": "TensorRT",
+    "descricao": "Um kit de desenvolvimento de software (SDK) da NVIDIA para inferência de alto desempenho, que otimiza e implementa modelos de aprendizado profundo em ambientes de produção.",
+    "data_criacao": "2016",
+    "link": "https://developer.nvidia.com/tensorrt",
+    "tags": [
+      "inferência",
+      "otimização",
+      "framework",
+      "nvidia"
+    ]
+  },
+  {
+    "nome": "OpenVINO (Open Visual Inference and Neural Network Optimization)",
+    "descricao": "Um toolkit da Intel para otimizar a inferência de modelos de IA em hardware Intel, especialmente para visão computacional e aplicações de edge computing.",
+    "data_criacao": "2018",
+    "link": "https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit.html",
+    "tags": [
+      "inferência",
+      "otimização",
+      "edge computing",
+      "intel"
+    ]
+  },
+  {
+    "nome": "RNN (Redes Neurais Recorrentes)",
+    "descricao": "Uma classe de redes neurais artificiais projetadas para processar sequências de dados (como tempo ou texto), utilizando conexões que formam um ciclo, permitindo que a informação persista.",
+    "data_criacao": "1986",
+    "link": "https://www.nature.com/articles/323533a0",
+    "tags": [
+      "deep learning",
+      "arquitetura",
+      "processamento de linguagem"
+    ]
+  },
+  {
+    "nome": "GRU (Gated Recurrent Unit)",
+    "descricao": "Uma variante simplificada de redes neurais recorrentes (RNNs) e LSTMs, projetada para resolver o problema de desaparecimento do gradiente em sequências longas.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1406.1078",
+    "tags": [
+      "deep learning",
+      "arquitetura",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "MoE (Mixture of Experts)",
+    "descricao": "Uma técnica arquitetônica que escala grandes modelos dividindo a computação entre vários 'experts' especializados, ativando apenas um pequeno subconjunto desses experts para cada token de entrada.",
+    "data_criacao": "1991",
+    "link": "https://arxiv.org/abs/1701.06538",
+    "tags": [
+      "llm",
+      "arquitetura",
+      "escalabilidade",
+      "eficiência"
+    ]
+  },
+  {
+    "nome": "GNN (Graph Neural Networks)",
+    "descricao": "Redes neurais projetadas para processar dados estruturados como grafos (redes), onde a saída de cada nó é influenciada pelas características dos seus vizinhos.",
+    "data_criacao": "2005",
+    "link": "https://arxiv.org/abs/0809.0740",
+    "tags": [
+      "deep learning",
+      "arquitetura",
+      "grafos"
+    ]
+  },
+  {
+    "nome": "Synthetic Data Generation",
+    "descricao": "O processo de criação artificial de dados que imitam as propriedades estatísticas de dados reais, usado para treinamento, privacidade ou balanceamento de datasets.",
+    "data_criacao": "2019",
+    "link": "https://www.gartner.com/en/articles/what-is-synthetic-data",
+    "tags": [
+      "ia generativa",
+      "conceito",
+      "data science",
+      "privacidade"
+    ]
+  },
+  {
+    "nome": "Adversarial Examples",
+    "descricao": "Inputs de dados projetados para causar erros em modelos de IA (especialmente redes neurais), muitas vezes alterados de forma imperceptível para humanos.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1412.6572",
+    "tags": [
+      "segurança",
+      "robustez",
+      "machine learning",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "In-Context Learning (ICL)",
+    "descricao": "A capacidade dos LLMs de aprender uma nova tarefa diretamente a partir das demonstrações fornecidas no prompt de entrada, sem a necessidade de atualização dos pesos do modelo (fine-tuning).",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2005.14165",
+    "tags": [
+      "llm",
+      "prompt engineering",
+      "conceito",
+      "paradigmas de aprendizado"
+    ]
+  },
+  {
+    "nome": "Data Augmentation",
+    "descricao": "Técnicas usadas para aumentar a quantidade e diversidade de dados de treinamento, criando novas amostras modificadas a partir das existentes (e.g., rotacionar imagens, sinônimos em texto).",
+    "data_criacao": "2012",
+    "link": "https://ieeexplore.ieee.org/document/7576527",
+    "tags": [
+      "data science",
+      "machine learning",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "Ray",
+    "descricao": "Um framework de computação distribuída open-source que facilita o dimensionamento de cargas de trabalho de IA e Python, desde o treinamento de modelos até a implantação em produção.",
+    "data_criacao": "2017",
+    "link": "https://www.ray.io/",
+    "tags": [
+      "framework",
+      "computação distribuída",
+      "mlops"
+    ]
+  },
+  {
+    "nome": "GPT-3.5 Turbo",
+    "descricao": "Uma versão otimizada da série GPT-3.5 da OpenAI, projetada especificamente para conversação e tarefas de chat com preços mais acessíveis e latência reduzida.",
+    "data_criacao": "2023",
+    "link": "https://openai.com/api/pricing/",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "openai",
+      "api"
+    ]
+  },
+  {
+    "nome": "NeRF (Neural Radiance Fields)",
+    "descricao": "Uma representação implícita de cenas em 3D que usa uma rede neural para mapear coordenadas espaciais (x, y, z, direção de visão) para cor e densidade volumétrica.",
+    "data_criacao": "2020",
+    "link": "https://www.matthewtancik.com/nerf",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "renderização 3d"
+    ]
+  },
+  {
+    "nome": "PPO (Proximal Policy Optimization)",
+    "descricao": "Um algoritmo de aprendizado por reforço que busca alcançar um bom equilíbrio entre a exploração e a garantia de que as atualizações da política não sejam muito drásticas, melhorando a estabilidade.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1707.06347",
+    "tags": [
+      "aprendizado por reforço",
+      "algoritmo",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Fast.ai",
+    "descricao": "Uma organização focada em tornar o deep learning acessível, fornecendo uma biblioteca de alto nível baseada em PyTorch e um curso popular que adota uma abordagem 'de cima para baixo'.",
+    "data_criacao": "2016",
+    "link": "https://www.fast.ai/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "educação"
+    ]
+  },
+  {
+    "nome": "Weights Initialization",
+    "descricao": "O processo fundamental de atribuir valores iniciais aos pesos das conexões neurais antes do treinamento, essencial para evitar problemas como gradientes explosivos ou evanescentes.",
+    "data_criacao": "1998",
+    "link": "https://proceedings.neurips.cc/paper/2010/file/d56b9fc4b0f1be7f415c102a061eb0d5-Paper.pdf",
+    "tags": [
+      "deep learning",
+      "conceito",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "Federated Learning",
+    "descricao": "Um conceito de aprendizado de máquina onde o treinamento é distribuído em múltiplos dispositivos de borda (como celulares), mantendo os dados de treinamento descentralizados para preservar a privacidade.",
+    "data_criacao": "2017",
+    "link": "https://ai.googleblog.com/2017/04/federated-learning-collaborative.html",
+    "tags": [
+      "privacidade",
+      "machine learning",
+      "edge computing",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "ONNX (Open Neural Network Exchange)",
+    "descricao": "Um formato aberto que permite que modelos de aprendizado profundo sejam interoperáveis, facilitando a transferência de modelos entre diferentes frameworks (e.g., PyTorch, TensorFlow) para treinamento e inferência.",
+    "data_criacao": "2017",
+    "link": "https://onnx.ai/",
+    "tags": [
+      "framework",
+      "interoperabilidade",
+      "deep learning",
+      "padronização"
+    ]
+  },
+  {
+    "nome": "DeepSpeed",
+    "descricao": "Uma biblioteca de otimização de treinamento profundo desenvolvida pela Microsoft que reduz os requisitos de computação e memória, permitindo treinar modelos massivos de forma mais eficiente.",
+    "data_criacao": "2020",
+    "link": "https://www.microsoft.com/en-us/research/project/deepspeed/",
+    "tags": [
+      "framework",
+      "otimização",
+      "treinamento distribuído",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "OPT (Open Pre-trained Transformer)",
+    "descricao": "Uma suíte de modelos de linguagem grandes e abertos da Meta, projetados para serem acessíveis à comunidade de pesquisa, com tamanhos variando de 125M a 175B de parâmetros.",
+    "data_criacao": "2022",
+    "link": "https://ai.meta.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "open source",
+      "nlp"
+    ]
+  },
+  {
+    "nome": "SFT (Supervised Fine-Tuning)",
+    "descricao": "Uma etapa crítica no treinamento de LLMs, onde um modelo pré-treinado é ajustado em um pequeno conjunto de dados de alta qualidade e com respostas humanas (ou simuladas) para seguir instruções específicas.",
+    "data_criacao": "2017",
+    "link": "https://huggingface.co/docs/trl/sft_trainer",
+    "tags": [
+      "llm",
+      "treinamento",
+      "ajuste fino",
+      "metodologia"
+    ]
+  },
+  {
+    "nome": "Chain-of-Thought Prompting (CoT)",
+    "descricao": "Uma técnica de engenharia de prompt que instrui o LLM a detalhar os passos de raciocínio antes de dar a resposta final, melhorando a precisão em tarefas complexas de raciocínio.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2201.11903",
+    "tags": [
+      "llm",
+      "prompt engineering",
+      "raciocínio",
+      "metodologia"
+    ]
+  },
+  {
+    "nome": "ResNet (Residual Network)",
+    "descricao": "Uma arquitetura de rede neural profunda que introduziu as 'conexões residuais' (skip connections) para permitir o treinamento de redes muito mais profundas sem enfrentar o problema do desvanecimento do gradiente.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1512.03385",
+    "tags": [
+      "visão computacional",
+      "arquitetura",
+      "deep learning",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "Feast (Feature Store)",
+    "descricao": "Uma plataforma de feature store de código aberto usada para gerenciar, descobrir e servir recursos de machine learning de forma consistente em treinamento e inferência.",
+    "data_criacao": "2019",
+    "link": "https://www.featurestore.org/",
+    "tags": [
+      "mlops",
+      "engenharia de dados",
+      "plataforma",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Problema de Alinhamento (Alignment Problem)",
+    "descricao": "O desafio de garantir que sistemas avançados de IA (especialmente AGI) operem de forma consistente com os valores, intenções e objetivos humanos, evitando resultados não desejados ou perigosos.",
+    "data_criacao": "2014",
+    "link": "https://deepmind.com/blog/article/alignment-problem",
+    "tags": [
+      "ética",
+      "segurança",
+      "conceito",
+      "pesquisa"
+    ]
+  },
+  {
+    "nome": "Backpropagation",
+    "descricao": "Algoritmo central usado para treinar redes neurais, calculando o gradiente da função de perda em relação aos pesos da rede e ajustando esses pesos para minimizar o erro.",
+    "data_criacao": "1986",
+    "link": "https://www.nature.com/articles/323533a0",
+    "tags": [
+      "algoritmo",
+      "deep learning",
+      "treinamento",
+      "conceito fundamental"
+    ]
+  },
+  {
+    "nome": "Jurassic-1 Jumbo",
+    "descricao": "Modelo de linguagem grande proprietário desenvolvido pela AI21 Labs, conhecido por seu alto desempenho em tarefas de geração de texto e compreensão de linguagem natural.",
+    "data_criacao": "2021",
+    "link": "https://www.ai21.com/blog/introducing-j1",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "nlp",
+      "modelo proprietário"
+    ]
+  },
+  {
+    "nome": "CatBoost",
+    "descricao": "Uma biblioteca de machine learning de código aberto baseada em árvores de decisão e gradient boosting, conhecida por lidar nativamente com características categóricas sem pré-processamento manual.",
+    "data_criacao": "2017",
+    "link": "https://catboost.ai/",
+    "tags": [
+      "framework",
+      "machine learning",
+      "boosting",
+      "algoritmo"
+    ]
+  },
+  {
+    "nome": "Active Learning",
+    "descricao": "Uma subárea do aprendizado de máquina onde o algoritmo de aprendizado pode consultar ativamente um usuário (ou outra fonte) para rotular novos pontos de dados, visando maximizar a precisão com um orçamento de rotulagem limitado.",
+    "data_criacao": "2009",
+    "link": "https://openreview.net/forum?id=S1gT0dC9t7",
+    "tags": [
+      "treinamento",
+      "eficiência",
+      "aquisição de dados",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Jukebox",
+    "descricao": "Um modelo generativo de IA da OpenAI que gera música em diversos gêneros e estilos artísticos, incluindo canto cru de áudio como onda sonora.",
+    "data_criacao": "2020",
+    "link": "https://openai.com/research/jukebox",
+    "tags": [
+      "ia generativa",
+      "áudio",
+      "música",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Alucinação em IAs (Hallucination)",
+    "descricao": "Fenômeno onde um LLM ou modelo generativo produz informações que soam plausíveis, mas são factualmente incorretas, inventadas ou não fundamentadas nos dados de origem.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2202.03629",
+    "tags": [
+      "llm",
+      "segurança",
+      "conceito",
+      "qualidade de dados"
+    ]
+  },
+  {
+    "nome": "MLP (Multi-Layer Perceptron)",
+    "descricao": "A arquitetura fundamental de rede neural composta por pelo menos três camadas de nós (entrada, oculta e saída), onde cada nó é totalmente conectado aos nós da camada seguinte.",
+    "data_criacao": "1980s",
+    "link": "https://dl.acm.org/doi/10.1145/2529.2541",
+    "tags": [
+      "arquitetura",
+      "deep learning",
+      "redes neurais",
+      "conceito fundamental"
+    ]
+  },
+  {
+    "nome": "Swin Transformer",
+    "descricao": "Uma arquitetura de visão computacional baseada em Transformers que utiliza janelas deslizantes hierárquicas, tornando-o eficiente para tarefas de classificação e detecção de objetos em imagens de alta resolução.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2103.14030",
+    "tags": [
+      "visão computacional",
+      "transformer",
+      "arquitetura",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "F1 Score (Medida F1)",
+    "descricao": "Uma métrica de avaliação que combina Precisão (Precision) e Recall (Revocação) como a média harmônica de ambas, sendo amplamente utilizada para avaliar o desempenho de modelos em problemas de classificação binária.",
+    "data_criacao": "1970s",
+    "link": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html",
+    "tags": [
+      "avaliação",
+      "métrica",
+      "machine learning",
+      "estatística"
+    ]
+  },
+  {
+    "nome": "Netron",
+    "descricao": "Uma ferramenta de código aberto para visualização de modelos de aprendizado de máquina, suportando vários formatos populares como ONNX, Keras e TensorFlow Lite.",
+    "data_criacao": "2017",
+    "link": "https://netron.app/",
+    "tags": [
+      "ferramenta",
+      "visualização",
+      "mlops",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Q-Learning",
+    "descricao": "Um algoritmo de aprendizado por reforço sem modelo que aprende uma função de valor de ação ótima (Q-function), determinando a melhor ação a ser tomada em um determinado estado.",
+    "data_criacao": "1989",
+    "link": "https://link.springer.com/chapter/10.1007/BFb0032240",
+    "tags": [
+      "aprendizado por reforço",
+      "algoritmo",
+      "conceito",
+      "rl"
+    ]
+  },
+  {
+    "nome": "Pre-training Objective (Objetivo de Pré-treinamento)",
+    "descricao": "A tarefa principal e não supervisionada usada para treinar modelos base (como LLMs ou Vision Transformers) em grandes volumes de dados antes do ajuste fino, geralmente envolvendo predição de próxima palavra ou mascaramento.",
+    "data_criacao": "2018",
+    "link": "https://arxiv.org/abs/1810.04805",
+    "tags": [
+      "llm",
+      "treinamento",
+      "nlp",
+      "metodologia"
+    ]
+  },
+  {
+    "nome": "Codex",
+    "descricao": "Modelo de IA generativa desenvolvido pela OpenAI, o motor por trás do GitHub Copilot, especializado em traduzir linguagem natural em código e completar código em várias linguagens de programação.",
+    "data_criacao": "2021",
+    "link": "https://openai.com/blog/openai-codex",
+    "tags": [
+      "ia generativa",
+      "programação",
+      "llm",
+      "nlp"
+    ]
+  },
+  {
+    "nome": "Great Expectations",
+    "descricao": "Uma ferramenta de código aberto para validação de dados, documentação e profiling, permitindo que equipes de ML e dados testem a qualidade dos dados e evitem 'data drift' nos pipelines de ML.",
+    "data_criacao": "2017",
+    "link": "https://greatexpectations.io/",
+    "tags": [
+      "mlops",
+      "qualidade de dados",
+      "ferramenta",
+      "engenharia de dados"
+    ]
+  },
+  {
+    "nome": "Data Poisoning Attacks (Ataques de Envenenamento de Dados)",
+    "descricao": "Uma ameaça à segurança da IA onde dados maliciosos são injetados no conjunto de treinamento de um modelo, manipulando-o para que ele se comporte de forma não intencional durante a inferência.",
+    "data_criacao": "2005",
+    "link": "https://ieeexplore.ieee.org/document/7361494",
+    "tags": [
+      "segurança",
+      "adversarial",
+      "treinamento",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "ULMFit (Universal Language Model Fine-tuning)",
+    "descricao": "Uma metodologia seminal de aprendizado por transferência para NLP, que popularizou o ajuste fino em três estágios para alcançar alto desempenho com menos dados de treinamento específicos para a tarefa.",
+    "data_criacao": "2018",
+    "link": "https://arxiv.org/abs/1801.06146",
+    "tags": [
+      "nlp",
+      "llm",
+      "aprendizado por transferência",
+      "metodologia"
+    ]
+  },
+  {
+    "nome": "Compromisso Vício-Variância (Bias-Variance Tradeoff)",
+    "descricao": "Conceito central em Machine Learning que descreve a tensão entre a complexidade do modelo (variância, ou superajuste) e a capacidade do modelo de representar a relação real (vício, ou subajuste).",
+    "data_criacao": "1980s",
+    "link": "https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff",
+    "tags": [
+      "conceito",
+      "machine learning",
+      "estatística",
+      "avaliação"
+    ]
+  },
+  {
+    "nome": "ALIGN (A Large-scale ImaGe and Noisy-text embedding)",
+    "descricao": "Um modelo multimodal do Google que aprende embeddings alinhadas de texto e imagem a partir de bilhões de pares de dados de imagem e texto ruidosos, superando a necessidade de legendas altamente limpas.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2102.05918",
+    "tags": [
+      "visão computacional",
+      "nlp",
+      "multimodal",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "PaLM (Pathways Language Model)",
+    "descricao": "Uma família de modelos de linguagem grande (LLMs) desenvolvida pelo Google AI, focada em capacidades avançadas de raciocínio e treinamento eficiente usando a infraestrutura Pathways.",
+    "data_criacao": "2022",
+    "link": "https://ai.google/blog/pathways-language-model/",
+    "tags": [
+      "llm",
+      "google ai",
+      "modelo de linguagem",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "Megatron-LM",
+    "descricao": "Um framework de treinamento distribuído desenvolvido pela Nvidia para treinar modelos de transformadores extremamente grandes de forma eficiente em múltiplas GPUs.",
+    "data_criacao": "2019",
+    "link": "https://github.com/NVIDIA/Megatron-LM",
+    "tags": [
+      "framework",
+      "treinamento distribuído",
+      "llm",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Kubeflow",
+    "descricao": "Plataforma de código aberto dedicada a tornar o deployment e gerenciamento de pipelines de machine learning (ML) em Kubernetes simples, portáteis e escaláveis.",
+    "data_criacao": "2017",
+    "link": "https://www.kubeflow.org/",
+    "tags": [
+      "mlops",
+      "kubernetes",
+      "infraestrutura",
+      "framework"
+    ]
+  },
+  {
+    "nome": "MLflow",
+    "descricao": "Plataforma de código aberto para gerenciar todo o ciclo de vida do machine learning, incluindo rastreamento de experimentos, empacotamento de código e deployment de modelos.",
+    "data_criacao": "2018",
+    "link": "https://mlflow.org/",
+    "tags": [
+      "mlops",
+      "framework",
+      "rastreamento",
+      "gerenciamento de modelos"
+    ]
+  },
+  {
+    "nome": "DVC (Data Version Control)",
+    "descricao": "Ferramenta de código aberto que adiciona versionamento de dados e modelos ao Git, facilitando a reprodutibilidade em projetos de Machine Learning.",
+    "data_criacao": "2017",
+    "link": "https://dvc.org/",
+    "tags": [
+      "mlops",
+      "versionamento",
+      "ferramenta",
+      "reprodutibilidade"
+    ]
+  },
+  {
+    "nome": "LaMDA (Language Model for Dialogue Applications)",
+    "descricao": "Modelo de linguagem conversacional desenvolvido pelo Google, otimizado para diálogo aberto e capaz de participar de conversas sobre virtualmente qualquer tópico.",
+    "data_criacao": "2021",
+    "link": "https://ai.google/discover/lamda/",
+    "tags": [
+      "llm",
+      "ia conversacional",
+      "dialogo",
+      "google ai"
+    ]
+  },
+  {
+    "nome": "Self-Supervised Learning (SSL)",
+    "descricao": "Paradigma de aprendizado onde o modelo gera seus próprios rótulos a partir dos dados de entrada (como preencher palavras mascaradas), aprendendo representações ricas sem anotação humana.",
+    "data_criacao": "2018",
+    "link": "https://www.ibm.com/topics/self-supervised-learning",
+    "tags": [
+      "conceito",
+      "deep learning",
+      "aprendizado nao supervisionado",
+      "treinamento"
+    ]
+  },
+  {
+    "nome": "Parti (Pathways Autoregressive Text-to-Image)",
+    "descricao": "Modelo de IA generativa de imagem a partir de texto do Google que utiliza uma abordagem autoregressiva, focando em imagens de alta qualidade e fotorealismo.",
+    "data_criacao": "2022",
+    "link": "https://ai.google/research/parti",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "text-to-image",
+      "modelo de difusão"
+    ]
+  },
+  {
+    "nome": "Point-E",
+    "descricao": "Modelo de IA da OpenAI capaz de gerar rapidamente nuvens de pontos 3D a partir de prompts de texto, otimizado para velocidade em vez de alta fidelidade geométrica.",
+    "data_criacao": "2022",
+    "link": "https://openai.com/research/point-e",
+    "tags": [
+      "ia generativa",
+      "3d",
+      "text-to-3d",
+      "openai"
+    ]
+  },
+  {
+    "nome": "Model Cards",
+    "descricao": "Documentação estruturada que fornece contexto e transparência sobre o desempenho, uso pretendido, métricas de justiça e limitações de um modelo de machine learning.",
+    "data_criacao": "2018",
+    "link": "https://arxiv.org/abs/1810.03993",
+    "tags": [
+      "etica em ia",
+      "transparencia",
+      "documentacao",
+      "mlops"
+    ]
+  },
+  {
+    "nome": "Quantization",
+    "descricao": "Técnica de otimização que reduz a precisão numérica dos pesos e ativações em redes neurais (tipicamente de FP32 para INT8) para acelerar a inferência e reduzir o uso de memória.",
+    "data_criacao": "2016",
+    "link": "https://www.tensorflow.org/model_optimization/guide/quantization",
+    "tags": [
+      "otimizacao",
+      "inferencia",
+      "deep learning",
+      "compressao de modelo"
+    ]
+  },
+  {
+    "nome": "Causal Language Modeling",
+    "descricao": "Objetivo de treinamento onde o modelo de linguagem é treinado para prever o próximo token na sequência com base apenas nos tokens anteriores. Essencial para modelos GPT (generativos).",
+    "data_criacao": "2018",
+    "link": "https://huggingface.co/docs/transformers/model_doc/gpt2",
+    "tags": [
+      "llm",
+      "conceito",
+      "treinamento",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "GELU (Gaussian Error Linear Unit)",
+    "descricao": "Uma função de ativação não linear amplamente utilizada em arquiteturas Transformer, atuando como um suavizador estocástico e melhorando a performance em comparação com ReLU.",
+    "data_criacao": "2016",
+    "link": "https://arxiv.org/abs/1606.08415",
+    "tags": [
+      "deep learning",
+      "componente",
+      "transformer",
+      "rede neural"
+    ]
+  },
+  {
+    "nome": "Apache Spark MLlib",
+    "descricao": "Biblioteca escalável de machine learning integrada ao framework Apache Spark, oferecendo algoritmos de ML de alto desempenho para processamento de grandes volumes de dados.",
+    "data_criacao": "2014",
+    "link": "https://spark.apache.org/mllib/",
+    "tags": [
+      "framework",
+      "big data",
+      "machine learning",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Prompt Tuning",
+    "descricao": "Técnica de fine-tuning eficiente em parâmetros onde apenas um pequeno vetor de 'soft prompts' é ajustado, mantendo os pesos do LLM principal congelados.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2104.08661",
+    "tags": [
+      "fine-tuning",
+      "llm",
+      "otimizacao",
+      "transfer learning"
+    ]
+  },
+  {
+    "nome": "Multi-Modal AI",
+    "descricao": "Conceito de sistemas de IA que podem processar, inter-relacionar e gerar conteúdo a partir de múltiplos tipos de dados simultaneamente (e.g., texto, imagem, áudio).",
+    "data_criacao": "2021",
+    "link": "https://www.deepmind.com/blog/multi-modal-ai",
+    "tags": [
+      "conceito",
+      "ia generativa",
+      "deep learning",
+      "visao e linguagem"
+    ]
+  },
+  {
+    "nome": "Few-Shot Learning",
+    "descricao": "Um paradigma de aprendizado de máquina onde o modelo é capaz de fazer generalizações a partir de apenas um punhado de exemplos de treinamento, ideal para tarefas com dados limitados.",
+    "data_criacao": "2000",
+    "link": "https://arxiv.org/abs/1703.05177",
+    "tags": [
+      "conceito",
+      "aprendizado de maquina",
+      "meta-learning",
+      "generalizacao"
+    ]
+  },
+  {
+    "nome": "Hydra",
+    "descricao": "Framework de código aberto que simplifica o desenvolvimento de aplicações de Machine Learning e pesquisa ao gerenciar configurações complexas de forma modular e dinâmica.",
+    "data_criacao": "2019",
+    "link": "https://hydra.cc/",
+    "tags": [
+      "framework",
+      "configuracao",
+      "mlops",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "ZenML",
+    "descricao": "Framework de MLOps extensível e de código aberto que ajuda engenheiros a criar pipelines de ML portáteis e reprodutíveis em qualquer infraestrutura.",
+    "data_criacao": "2021",
+    "link": "https://zenml.io/",
+    "tags": [
+      "mlops",
+      "pipeline",
+      "framework",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Gorilla",
+    "descricao": "Modelo de linguagem grande open-source que se destaca em escrever chamadas de API de forma precisa, permitindo que os LLMs interajam de forma mais eficiente com ferramentas externas.",
+    "data_criacao": "2023",
+    "link": "https://gorilla.cs.berkeley.edu/",
+    "tags": [
+      "llm",
+      "ferramenta",
+      "chamada de api",
+      "open-source"
+    ]
+  },
+  {
+    "nome": "DETR (DEtection TRansformer)",
+    "descricao": "Modelo de detecção de objetos que simplificou o pipeline tradicional, usando um Transformer de ponta a ponta para prever diretamente conjuntos de objetos.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2005.12872",
+    "tags": [
+      "visao computacional",
+      "transformer",
+      "deteccao de objetos",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "ERNIE (Enhanced Representation through kNowledge IntEgration)",
+    "descricao": "Série de modelos LLM desenvolvidos pela Baidu, que integram conhecimento estruturado e semântico em diferentes níveis para melhorar a compreensão da linguagem.",
+    "data_criacao": "2019",
+    "link": "https://github.com/PaddlePaddle/ERNIE",
+    "tags": [
+      "llm",
+      "baidu",
+      "conhecimento",
+      "modelo de linguagem"
+    ]
+  },
+  {
+    "nome": "R-CNN (Region-based Convolutional Neural Networks)",
+    "descricao": "A arquitetura pioneira na detecção de objetos baseada em Deep Learning, que propôs o uso de sugestões de regiões antes de aplicar a classificação CNN.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1311.2524",
+    "tags": [
+      "visão computacional",
+      "deteccao de objetos",
+      "cnn",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Decision Transformer",
+    "descricao": "Modelo de Aprendizado por Reforço (RL) que reformula a tarefa de RL como um problema de modelagem de sequência, usando a arquitetura Transformer para prever ações futuras.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2106.01345",
+    "tags": [
+      "aprendizado por reforco",
+      "transformer",
+      "deep learning",
+      "rl"
+    ]
+  },
+  {
+    "nome": "Cohere Command",
+    "descricao": "Família de modelos de linguagem grandes projetada especificamente para casos de uso corporativos, focando em confiabilidade, segurança e integração de ferramentas empresariais.",
+    "data_criacao": "2022",
+    "link": "https://cohere.com/models/command",
+    "tags": [
+      "llm",
+      "ia corporativa",
+      "modelo de linguagem",
+      "processamento de linguagem natural"
+    ]
+  },
+  {
+    "nome": "InstructGPT",
+    "descricao": "Uma série de modelos predecessores do ChatGPT, treinados com Aprendizado por Reforço a Partir de Feedback Humano (RLHF) para seguir instruções de forma mais fiel e segura.",
+    "data_criacao": "2022",
+    "link": "https://openai.com/research/instructgpt",
+    "tags": [
+      "llm",
+      "rlhf",
+      "alinhamento",
+      "modelo de linguagem"
+    ]
+  },
+  {
+    "nome": "Vision Transformer (ViT)",
+    "descricao": "Arquitetura que aplica o mecanismo Transformer, originalmente criado para NLP, diretamente à classificação e processamento de imagens, tratando partes da imagem como 'tokens'.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2010.11929",
+    "tags": [
+      "visão computacional",
+      "transformer",
+      "deep learning",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "JAX",
+    "descricao": "Framework de machine learning desenvolvido pelo Google que combina transformação de funções (como diferenciação automática e JIT compilation) com o NumPy para computação de alto desempenho.",
+    "data_criacao": "2018",
+    "link": "https://github.com/google/jax",
+    "tags": [
+      "framework",
+      "deep learning",
+      "computação numérica",
+      "google"
+    ]
+  },
+  {
+    "nome": "RLHF (Reinforcement Learning from Human Feedback)",
+    "descricao": "Técnica fundamental de alinhamento em IAs generativas que utiliza feedback humano para criar um modelo de recompensa, usado para treinar um modelo de linguagem via Aprendizado por Reforço (RL).",
+    "data_criacao": "2017",
+    "link": "https://www.assemblyai.com/blog/rlhf-how-it-works/",
+    "tags": [
+      "conceito",
+      "alinhamento",
+      "llm",
+      "aprendizado por reforço"
+    ]
+  },
+  {
+    "nome": "Wavenet",
+    "descricao": "Um modelo generativo profundo baseado em redes neurais convolucionais (CNNs) para gerar áudio raw, altamente influente na síntese de fala e música, desenvolvido pelo DeepMind.",
+    "data_criacao": "2016",
+    "link": "https://deepmind.com/blog/wavenet-generative-model-raw-audio",
+    "tags": [
+      "ia generativa",
+      "áudio",
+      "deep learning",
+      "cnn"
+    ]
+  },
+  {
+    "nome": "Word2Vec",
+    "descricao": "Grupo de modelos criados para produzir 'word embeddings' eficientes, mapeando palavras para vetores numéricos de modo que palavras com significados semelhantes estejam próximas no espaço vetorial.",
+    "data_criacao": "2013",
+    "link": "https://arxiv.org/abs/1301.3781",
+    "tags": [
+      "nlp",
+      "embeddings",
+      "conceito",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Knowledge Distillation",
+    "descricao": "Técnica de compressão de modelo onde um modelo grande e complexo (professor) treina um modelo menor e mais eficiente (aluno) para manter a performance, mas reduzir o custo de inferência.",
+    "data_criacao": "2015",
+    "link": "https://www.jmlr.org/papers/v15/hinton15a.html",
+    "tags": [
+      "otimização",
+      "eficiência",
+      "compressão de modelo",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "DPO (Direct Preference Optimization)",
+    "descricao": "Método de alinhamento que oferece uma alternativa mais simples e estável ao RLHF, permitindo o ajuste fino direto de LLMs em dados de preferência sem a necessidade de um modelo de recompensa explícito.",
+    "data_criacao": "2023",
+    "link": "https://arxiv.org/abs/2305.18290",
+    "tags": [
+      "llm",
+      "alinhamento",
+      "otimização",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "Perceiver IO",
+    "descricao": "Arquitetura que lida com dados de múltiplas modalidades (texto, imagem, áudio) usando um mecanismo de atenção que processa grandes entradas, transformando-as em um 'bottleneck' latente de tamanho fixo.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2107.14795",
+    "tags": [
+      "multi-modal",
+      "arquitetura",
+      "deep learning",
+      "transformer"
+    ]
+  },
+  {
+    "nome": "Triton Inference Server",
+    "descricao": "Plataforma de código aberto da NVIDIA otimizada para implantação de modelos de IA em escala em produção, suportando múltiplas estruturas e facilitando a inferência de alto desempenho.",
+    "data_criacao": "2018",
+    "link": "https://github.com/triton-inference-server/server",
+    "tags": [
+      "ferramenta",
+      "inferência",
+      "mlops",
+      "deploy"
+    ]
+  },
+  {
+    "nome": "FastChat",
+    "descricao": "Uma plataforma de código aberto para treinar, servir e avaliar modelos de linguagem de grande escala, especialmente modelos de chatbot baseados em arquiteturas como Vicuna e Llama.",
+    "data_criacao": "2023",
+    "link": "https://github.com/lm-sys/FastChat",
+    "tags": [
+      "ferramenta",
+      "llm",
+      "open-source",
+      "treinamento"
+    ]
+  },
+  {
+    "nome": "FlashAttention",
+    "descricao": "Um algoritmo que acelera o cálculo do mecanismo de atenção em Transformers e reduz o uso de memória (HBM) ao repassar o cálculo entre diferentes níveis da hierarquia de memória.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2205.14135",
+    "tags": [
+      "otimização",
+      "transformer",
+      "eficiência",
+      "hardware"
+    ]
+  },
+  {
+    "nome": "Sentence Transformers",
+    "descricao": "Biblioteca Python baseada em Hugging Face que facilita o cálculo de embeddings de sentenças e documentos, usando redes Siamese e Triplet para tarefas como pesquisa semântica e clustering.",
+    "data_criacao": "2019",
+    "link": "https://www.sbert.net/",
+    "tags": [
+      "nlp",
+      "embeddings",
+      "ferramenta",
+      "pesquisa semântica"
+    ]
+  },
+  {
+    "nome": "AutoGPT",
+    "descricao": "Um dos primeiros projetos a demonstrar um Agente de IA autônomo, capaz de decompor uma meta complexa em sub-tarefas e interagir com ferramentas externas, como navegadores e armazenamento de memória.",
+    "data_criacao": "2023",
+    "link": "https://github.com/Significant-Gravitas/AutoGPT",
+    "tags": [
+      "ia generativa",
+      "agentes de ia",
+      "ferramenta",
+      "llm"
+    ]
+  },
+  {
+    "nome": "Pathways",
+    "descricao": "Uma nova arquitetura de IA do Google (DeepMind) projetada para permitir que um único modelo genérico aprenda a realizar milhões de tarefas e faça inferência de maneira eficiente.",
+    "data_criacao": "2021",
+    "link": "https://storage.googleapis.com/deepmind-media/pathways/Pathways_Paper.pdf",
+    "tags": [
+      "arquitetura",
+      "google",
+      "multi-modal",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Curriculum Learning",
+    "descricao": "Estratégia de treinamento onde os modelos de IA são expostos a exemplos de treinamento em uma ordem crescente de dificuldade (do fácil para o complexo), imitando o aprendizado humano.",
+    "data_criacao": "2009",
+    "link": "https://dl.acm.org/doi/10.1145/1553374.1553380",
+    "tags": [
+      "conceito",
+      "otimização",
+      "treinamento",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "ELMo (Embeddings from Language Models)",
+    "descricao": "Modelo de word embeddings que introduziu o conceito de representações contextuais profundas, onde o vetor de uma palavra muda dependendo do contexto da sentença, usando RNNs bi-direcionais.",
+    "data_criacao": "2018",
+    "link": "https://arxiv.org/abs/1802.05367",
+    "tags": [
+      "nlp",
+      "embeddings",
+      "rnn",
+      "fundação"
+    ]
+  },
+  {
+    "nome": "LIME (Local Interpretable Model-agnostic Explanations)",
+    "descricao": "Uma técnica de explicabilidade de IA (XAI) que explica as previsões de qualquer classificador (model-agnostic) de forma local, criando modelos substitutos interpretáveis em torno da previsão específica.",
+    "data_criacao": "2016",
+    "link": "https://arxiv.org/abs/1602.04938",
+    "tags": [
+      "xai",
+      "explicabilidade",
+      "ferramenta",
+      "interpretabilidade"
+    ]
+  },
+  {
+    "nome": "Megatron-Turing NLG (MT-NLG)",
+    "descricao": "Um dos maiores modelos de linguagem densos pré-treinados, resultado de uma colaboração entre Microsoft e NVIDIA, demonstrando escalabilidade para LLMs com centenas de bilhões de parâmetros.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2201.12644",
+    "tags": [
+      "llm",
+      "microsoft",
+      "nvidia",
+      "escala"
+    ]
+  },
+  {
+    "nome": "Adaptive Computation Time (ACT)",
+    "descricao": "Um mecanismo que permite que redes neurais recorrentes (RNNs) e Transformers parem de calcular dinamicamente após um número variável de etapas, economizando recursos computacionais.",
+    "data_criacao": "2016",
+    "link": "https://arxiv.org/abs/1603.08983",
+    "tags": [
+      "eficiência",
+      "arquitetura",
+      "rnn",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "Gopher",
+    "descricao": "Um modelo de linguagem de grande escala desenvolvido pelo DeepMind, focado na análise do impacto da escala (tamanho do modelo) e do dataset no desempenho em tarefas de NLP.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2112.11446",
+    "tags": [
+      "llm",
+      "deepmind",
+      "modelo de linguagem",
+      "nlp"
+    ]
+  },
+  {
+    "nome": "OpenAI Gym",
+    "descricao": "Um kit de ferramentas de código aberto para desenvolver e comparar algoritmos de Aprendizado por Reforço (RL), fornecendo uma variedade de ambientes de simulação padronizados.",
+    "data_criacao": "2016",
+    "link": "https://www.gymlibrary.dev/",
+    "tags": [
+      "ferramenta",
+      "rl",
+      "aprendizado por reforço",
+      "plataforma"
+    ]
+  },
+  {
+    "nome": "Langevin Dynamics",
+    "descricao": "Um princípio matemático usado em amostragem em modelos de machine learning, fundamental para o funcionamento de modelos de IA generativa baseados em energia (EBMs) e certos modelos de difusão.",
+    "data_criacao": "2019",
+    "link": "https://arxiv.org/abs/1912.03263",
+    "tags": [
+      "conceito",
+      "matemática",
+      "ia generativa",
+      "amostragem"
+    ]
+  },
+  {
+    "nome": "Hugging Face Accelerate",
+    "descricao": "Biblioteca que simplifica a execução de código PyTorch em qualquer configuração distribuída (GPU única, múltiplas GPUs, TPUs) com apenas algumas linhas de código, abstraindo a complexidade do hardware.",
+    "data_criacao": "2022",
+    "link": "https://huggingface.co/docs/accelerate/index",
+    "tags": [
+      "ferramenta",
+      "treinamento",
+      "distribuído",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "SimCLR (Simple Framework for Contrastive Learning of Visual Representations)",
+    "descricao": "Framework seminal para aprendizado auto-supervisionado em visão computacional que usa contraste de instâncias para aprender representações robustas de imagem sem rótulos manuais.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2002.05709",
+    "tags": [
+      "self-supervised learning",
+      "visão computacional",
+      "deep learning",
+      "representação"
+    ]
+  },
+  {
+    "nome": "Mamba",
+    "descricao": "Arquitetura de modelo de estado seletivo (SSM) que combina a eficiência de modelos recorrentes com o desempenho de Transformers para sequências longas.",
+    "data_criacao": "2024",
+    "link": "https://github.com/state-spaces/mamba",
+    "tags": [
+      "Arquitetura",
+      "LLM",
+      "Modelagem de Sequência",
+      "Deep Learning",
+      "HPC"
+    ]
+  },
+  {
+    "nome": "Chinchilla Scaling Laws",
+    "descricao": "Regras empíricas que determinam a relação ideal entre o número de parâmetros do modelo (tamanho), o tamanho do conjunto de dados e o custo computacional para treinar LLMs.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2203.02878",
+    "tags": [
+      "Conceito",
+      "LLM",
+      "Otimização",
+      "Treinamento"
+    ]
+  },
+  {
+    "nome": "BART (Bidirectional and Auto-Regressive Transformer)",
+    "descricao": "Modelo de linguagem que usa um objetivo de pré-treinamento de denoising (remoção de ruído), combinando a bidirecionalidade do BERT com a natureza autorregressiva de modelos generativos.",
+    "data_criacao": "2019",
+    "link": "https://arxiv.org/abs/1910.13461",
+    "tags": [
+      "LLM",
+      "Pré-treinamento",
+      "NLP",
+      "Transfer Learning"
+    ]
+  },
+  {
+    "nome": "HoloLens (Visão)",
+    "descricao": "Plataforma de realidade mista da Microsoft que utiliza algoritmos de IA para mapeamento espacial, reconhecimento de objetos em tempo real e interação homem-máquina.",
+    "data_criacao": "2016",
+    "link": "https://www.microsoft.com/en-us/hololens",
+    "tags": [
+      "Visão Computacional",
+      "Realidade Mista",
+      "Aplicação",
+      "Edge AI"
+    ]
+  },
+  {
+    "nome": "DeepMind Gato",
+    "descricao": "Um modelo de IA 'agente geral' que pode realizar mais de 600 tarefas distintas, incluindo jogar jogos, legendar imagens e controlar braços robóticos, usando a mesma rede neural.",
+    "data_criacao": "2022",
+    "link": "https://www.deepmind.com/publications/a-generalist-agent",
+    "tags": [
+      "AGI",
+      "Multi-Modal",
+      "Agente",
+      "Transfer Learning"
+    ]
+  },
+  {
+    "nome": "XLA (Accelerated Linear Algebra)",
+    "descricao": "Compilador de domínio específico para álgebra linear que otimiza as operações matemáticas em frameworks de machine learning (como TensorFlow e JAX) para melhor desempenho em hardware.",
+    "data_criacao": "2017",
+    "link": "https://www.tensorflow.org/xla",
+    "tags": [
+      "Otimização",
+      "Compilador",
+      "Framework",
+      "HPC"
+    ]
+  },
+  {
+    "nome": "Modelos de Difusão Condicional (CDMs)",
+    "descricao": "Extensão dos Modelos de Difusão que permite controlar a saída gerada (imagem, áudio, etc.) condicionando o processo de denoising em alguma entrada auxiliar (texto, classe, mapa de profundidade).",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2105.05286",
+    "tags": [
+      "IA Generativa",
+      "Imagem",
+      "Difusão",
+      "Visão Computacional"
+    ]
+  },
+  {
+    "nome": "Feature Store (Armazenamento de Features)",
+    "descricao": "Um sistema centralizado para armazenar, versionar e servir recursos (features) de machine learning de forma consistente e em tempo real para treinamento e inferência.",
+    "data_criacao": "2019",
+    "link": "https://www.tecton.ai/what-is-a-feature-store/",
+    "tags": [
+      "MLOps",
+      "Engenharia de Dados",
+      "Feature Engineering",
+      "Produção"
+    ]
+  },
+  {
+    "nome": "Sparse Attention (Atenção Esparsa)",
+    "descricao": "Técnica que visa reduzir a complexidade quadrática do mecanismo de atenção padrão (Transformer) ao fazer com que cada token preste atenção apenas em um subconjunto de tokens de entrada.",
+    "data_criacao": "2019",
+    "link": "https://arxiv.org/abs/1904.10509",
+    "tags": [
+      "Arquitetura",
+      "Otimização",
+      "LLM",
+      "Deep Learning"
+    ]
+  },
+  {
+    "nome": "Autoencoder Denoiser (DAE)",
+    "descricao": "Tipo de autoencoder treinado para reconstruir a entrada original a partir de uma versão corrompida (com ruído), forçando-o a aprender representações mais robustas dos dados.",
+    "data_criacao": "2008",
+    "link": "https://www.deeplearningbook.org/contents/autoencoders.html",
+    "tags": [
+      "Deep Learning",
+      "Não Supervisionado",
+      "Autoencoder",
+      "Redução de Dimensionalidade"
+    ]
+  },
+  {
+    "nome": "Multi-Agent Systems (MAS)",
+    "descricao": "Campo da IA que estuda como múltiplos agentes autônomos e interativos trabalham em conjunto para resolver problemas complexos ou simular comportamentos sociais.",
+    "data_criacao": "1980",
+    "link": "https://www.sciencedirect.com/topics/computer-science/multi-agent-system",
+    "tags": [
+      "Conceito",
+      "Agente",
+      "Autonomia",
+      "Simulação"
+    ]
+  },
+  {
+    "nome": "DVC Studio",
+    "descricao": "Interface gráfica baseada na web para o Data Version Control (DVC), usada para visualizar, gerenciar e colaborar em experimentos de machine learning e seus pipelines.",
+    "data_criacao": "2022",
+    "link": "https://dvc.org/doc/studio/what-is-dvc-studio",
+    "tags": [
+      "MLOps",
+      "Ferramenta",
+      "Versionamento",
+      "Experimentos"
+    ]
+  },
+  {
+    "nome": "Grover",
+    "descricao": "Modelo de linguagem projetado especificamente para detectar fake news e texto gerado por IA, e também para gerar texto convincente de forma adversarial.",
+    "data_criacao": "2019",
+    "link": "https://arxiv.org/abs/1905.12616",
+    "tags": [
+      "LLM",
+      "Segurança",
+      "NLP",
+      "Adversarial"
+    ]
+  },
+  {
+    "nome": "Simulated Annealing",
+    "descricao": "Algoritmo meta-heurístico de otimização inspirado no recozimento de metais, usado para encontrar uma boa aproximação do ótimo global em grandes espaços de busca.",
+    "data_criacao": "1983",
+    "link": "https://www.sciencedirect.com/topics/computer-science/simulated-annealing",
+    "tags": [
+      "Algoritmo",
+      "Otimização",
+      "Busca",
+      "Estatística"
+    ]
+  },
+  {
+    "nome": "Spiking Neural Networks (SNNs)",
+    "descricao": "Redes neurais que se comunicam através de pulsos discretos (spikes) temporais, sendo mais bio-inspiradas e eficientes em termos de energia para Edge AI.",
+    "data_criacao": "1990",
+    "link": "https://www.frontiersin.org/articles/10.3389/fncom.2020.00030/full",
+    "tags": [
+      "Arquitetura",
+      "Neurociência",
+      "Edge AI",
+      "Deep Learning"
+    ]
+  },
+  {
+    "nome": "Knowledge Graphs (KGs)",
+    "descricao": "Estruturas de dados que modelam o conhecimento do mundo real como um grafo de entidades e relações, melhorando a capacidade de raciocínio de sistemas de IA.",
+    "data_criacao": "2012",
+    "link": "https://www.w3.org/standards/semanticweb/",
+    "tags": [
+      "Conceito",
+      "NLP",
+      "Representação de Conhecimento",
+      "Grafos"
+    ]
+  },
+  {
+    "nome": "Deberta (Decoding-enhanced BERT)",
+    "descricao": "Modelo de linguagem que melhora o Transformer padrão introduzindo a atenção desacoplada e uma rede de aprimoramento de decodificação no topo da arquitetura.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2006.03654",
+    "tags": [
+      "LLM",
+      "Arquitetura",
+      "NLP",
+      "Microsoft"
+    ]
+  },
+  {
+    "nome": "Hypernetworks",
+    "descricao": "Redes neurais que produzem os pesos (parâmetros) de outra rede neural, utilizada em meta-aprendizado ou para compressão eficiente de modelos grandes.",
+    "data_criacao": "2016",
+    "link": "https://arxiv.org/abs/1609.09106",
+    "tags": [
+      "Arquitetura",
+      "Meta-Aprendizado",
+      "Deep Learning",
+      "Otimização"
+    ]
+  },
+  {
+    "nome": "OpenAI API",
+    "descricao": "A interface de programação unificada que permite que desenvolvedores acessem e integrem os modelos de ponta da OpenAI (como GPT e DALL-E) em suas aplicações.",
+    "data_criacao": "2020",
+    "link": "https://platform.openai.com/docs/introduction",
+    "tags": [
+      "Plataforma",
+      "API",
+      "LLM",
+      "Produção"
+    ]
+  },
+  {
+    "nome": "Synthetic Data Vault (SDV)",
+    "descricao": "Biblioteca de código aberto em Python para geração de dados sintéticos de alta qualidade a partir de dados tabulares, séries temporais e relacionais, mantendo a privacidade e estrutura estatística.",
+    "data_criacao": "2017",
+    "link": "https://sdv.dev/",
+    "tags": [
+      "Dados Sintéticos",
+      "Ferramenta",
+      "Privacidade",
+      "Engenharia de Dados"
+    ]
+  },
+  {
+    "nome": "AutoGluon",
+    "descricao": "Framework de AutoML de código aberto que automatiza a seleção, ajuste e ensemble de modelos para classificação, regressão e detecção de objetos de forma eficiente.",
+    "data_criacao": "2019",
+    "link": "https://auto.gluon.ai/",
+    "tags": [
+      "AutoML",
+      "Framework",
+      "Otimização",
+      "Amazon"
+    ]
+  },
+  {
+    "nome": "ControlNet",
+    "descricao": "Arquitetura de rede neural que permite adicionar condições espaciais extras a modelos de difusão de texto para imagem, permitindo controle preciso sobre a composição visual da saída.",
+    "data_criacao": "2023",
+    "link": "https://arxiv.org/abs/2302.05543",
+    "tags": [
+      "IA Generativa",
+      "Visão Computacional",
+      "Imagem",
+      "Difusão"
+    ]
+  },
+  {
+    "nome": "Reinforcement Learning from AI Feedback (RLAIF)",
+    "descricao": "Técnica de alinhamento onde o modelo de recompensa, que avalia a qualidade da resposta do LLM, é treinado usando feedback e preferências geradas por um LLM superior (em vez de feedback humano).",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2209.07062",
+    "tags": [
+      "Alinhamento",
+      "LLM",
+      "Aprendizado por Reforço",
+      "Treinamento"
+    ]
+  },
+  {
+    "nome": "Meta-Learning (Aprendizado de Aprender)",
+    "descricao": "Abordagem onde o objetivo do modelo é aprender a se adaptar ou aprender novas tarefas rapidamente, com poucos exemplos, através da otimização de seu próprio processo de aprendizado.",
+    "data_criacao": "1998",
+    "link": "https://arxiv.org/abs/1703.03400",
+    "tags": [
+      "Conceito",
+      "Meta-Aprendizado",
+      "Few-Shot Learning",
+      "Otimização"
+    ]
+  },
+  {
+    "nome": "LoRAX",
+    "descricao": "Framework de serviço (serving) que permite o carregamento e execução simultânea e eficiente de milhares de modelos LLM finetunados (usando LoRA) em um único nó de hardware.",
+    "data_criacao": "2023",
+    "link": "https://www.anyscale.com/blog/introducing-lorax-serve-1000s-of-llms-on-a-single-gpu",
+    "tags": [
+      "Otimização",
+      "LLM",
+      "Servir Modelos",
+      "Framework"
+    ]
+  },
+  {
+    "nome": "GPT-2",
+    "descricao": "Um modelo de linguagem transformador pré-treinado massivo desenvolvido pela OpenAI, notável por sua capacidade de gerar texto coerente em larga escala e ser um precursor dos LLMs modernos.",
+    "data_criacao": "2019",
+    "link": "https://openai.com/blog/better-language-models/",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "modelo de linguagem",
+      "pré-treinamento"
+    ]
+  },
+  {
+    "nome": "Laion-5B",
+    "descricao": "Um enorme conjunto de dados público e aberto (cerca de 5,85 bilhões de pares de imagem-texto) usado para treinar grandes modelos de imagem e multimodal, como modelos de difusão.",
+    "data_criacao": "2021",
+    "link": "https://laion.ai/blog/laion-5b/",
+    "tags": [
+      "dataset",
+      "visão computacional",
+      "multimodal",
+      "recursos abertos"
+    ]
+  },
+  {
+    "nome": "Electra",
+    "descricao": "Um modelo de representação de linguagem que utiliza uma tarefa de aprendizado mais eficiente chamada Substituição de Token Detectada (Replaced Token Detection), em vez de mascaramento, tornando o pré-treinamento mais rápido.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2003.10555",
+    "tags": [
+      "llm",
+      "modelo de linguagem",
+      "pré-treinamento",
+      "eficiência"
+    ]
+  },
+  {
+    "nome": "DeepLearning4j (DL4J)",
+    "descricao": "Um framework de aprendizado profundo de código aberto, distribuído e de nível de produção para a JVM (Java Virtual Machine), suportando Java, Scala e outras linguagens JVM.",
+    "data_criacao": "2014",
+    "link": "https://deeplearning4j.org/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "java",
+      "produção"
+    ]
+  },
+  {
+    "nome": "DDP (Distributed Data Parallel)",
+    "descricao": "Uma estratégia comum de treinamento distribuído onde o modelo é replicado em vários dispositivos ou nós, e cada um processa um subconjunto diferente do lote de dados, sincronizando gradientes.",
+    "data_criacao": "2017",
+    "link": "https://pytorch.org/docs/stable/nn.html#distributeddataparallel",
+    "tags": [
+      "treinamento distribuído",
+      "otimização",
+      "hardware",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Conditional Computation",
+    "descricao": "Um conceito de arquitetura que permite que diferentes partes de uma rede neural sejam ativadas para diferentes entradas, promovendo a parcimônia e a escalabilidade, como visto em arquiteturas MoE (Mixture of Experts).",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1711.09160",
+    "tags": [
+      "arquitetura",
+      "escalabilidade",
+      "eficiência",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Quantization Aware Training (QAT)",
+    "descricao": "Técnica de otimização de modelo onde o processo de treinamento simula os efeitos da quantização de 8 bits ou inferior, garantindo que o modelo mantenha a precisão ao ser convertido para formatos de baixa precisão na inferência.",
+    "data_criacao": "2018",
+    "link": "https://arxiv.org/abs/1806.08342",
+    "tags": [
+      "otimização",
+      "inferência",
+      "quantização",
+      "eficiência"
+    ]
+  },
+  {
+    "nome": "Xception",
+    "descricao": "Uma arquitetura de rede neural convolucional que introduz Convoluções Separadas Profundamente (Depthwise Separable Convolutions) para melhorar o desempenho e reduzir a complexidade computacional das CNNs tradicionais.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1610.02357",
+    "tags": [
+      "visão computacional",
+      "arquitetura",
+      "deep learning",
+      "cnn"
+    ]
+  },
+  {
+    "nome": "Amazon SageMaker",
+    "descricao": "Um serviço de nuvem totalmente gerenciado pela AWS que permite a desenvolvedores e cientistas de dados construir, treinar e implantar modelos de Machine Learning rapidamente em escala.",
+    "data_criacao": "2017",
+    "link": "https://aws.amazon.com/sagemaker/",
+    "tags": [
+      "plataforma",
+      "mlops",
+      "serviços de nuvem",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Prompt Engineering",
+    "descricao": "A disciplina de design, desenvolvimento e refinamento de instruções (prompts) fornecidas a Modelos de Linguagem Grandes (LLMs) para guiar seu comportamento e obter resultados desejados e precisos.",
+    "data_criacao": "2021",
+    "link": "https://www.promptingguide.ai/",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "conceito",
+      "metodologia"
+    ]
+  },
+  {
+    "nome": "Few-shot Prompting",
+    "descricao": "Uma técnica de In-Context Learning onde alguns exemplos de pares entrada-saída são incluídos no prompt de entrada para demonstrar a tarefa desejada ao LLM, sem a necessidade de ajuste fino (fine-tuning) dos pesos do modelo.",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2005.14165",
+    "tags": [
+      "llm",
+      "prompt engineering",
+      "aprendizado",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "Adversarial Training",
+    "descricao": "Uma técnica de treinamento usada para aumentar a robustez de modelos de Machine Learning contra ataques adversariais, introduzindo exemplos perturbados durante o treinamento para melhorar a generalização.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1412.6572",
+    "tags": [
+      "segurança",
+      "robustez",
+      "treinamento",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Domain Adaptation",
+    "descricao": "Um ramo do aprendizado de máquina onde o objetivo é aplicar o conhecimento adquirido de um domínio de origem (source domain) em um domínio de destino (target domain) diferente, mas relacionado, tipicamente para lidar com o desvio de domínio (domain shift).",
+    "data_criacao": "2010",
+    "link": "https://en.wikipedia.org/wiki/Domain_adaptation",
+    "tags": [
+      "aprendizado de máquina",
+      "aprendizado por transferência",
+      "conceito",
+      "generalização"
+    ]
+  },
+  {
+    "nome": "Stochastic Gradient Descent (SGD)",
+    "descricao": "Um método iterativo de otimização para encontrar mínimos de funções objetivo, popularmente usado para treinar redes neurais, onde o gradiente é calculado em um subconjunto dos dados (minibatch) em vez de todo o conjunto.",
+    "data_criacao": "1951",
+    "link": "https://en.wikipedia.org/wiki/Stochastic_gradient_descent",
+    "tags": [
+      "otimização",
+      "algoritmo",
+      "deep learning",
+      "fundamentos"
+    ]
+  },
+  {
+    "nome": "TPU (Tensor Processing Unit)",
+    "descricao": "Hardware acelerador personalizado desenvolvido pelo Google, projetado especificamente para acelerar cargas de trabalho de machine learning usando frameworks como TensorFlow e JAX.",
+    "data_criacao": "2016",
+    "link": "https://cloud.google.com/tpu",
+    "tags": [
+      "hardware",
+      "acelerador",
+      "deep learning",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Mask R-CNN",
+    "descricao": "Uma extensão da arquitetura Faster R-CNN, que adiciona um ramo para predição de máscara de segmentação a nível de pixel, além de predição de caixa delimitadora e rótulos de classe.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1703.06870",
+    "tags": [
+      "visão computacional",
+      "arquitetura",
+      "segmentação",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Diffusion Policy",
+    "descricao": "Aplicação de modelos de difusão para tarefas de controle de robótica, onde o modelo de difusão aprende a mapear o estado do robô para uma distribuição de ações ótimas.",
+    "data_criacao": "2023",
+    "link": "https://diffusion-policy.cs.columbia.edu/",
+    "tags": [
+      "robótica",
+      "modelos de difusão",
+      "controle",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "Inference Optimization",
+    "descricao": "O processo de ajustar modelos e plataformas de implantação para garantir a execução eficiente e rápida de predições (inferência) em ambientes de produção, incluindo técnicas como quantização e poda (pruning).",
+    "data_criacao": "2010",
+    "link": "https://docs.nvidia.com/deeplearning/performance/index.html",
+    "tags": [
+      "mlops",
+      "otimização",
+      "produção",
+      "eficiência"
+    ]
+  },
+  {
+    "nome": "VGGNet",
+    "descricao": "Uma arquitetura de rede neural convolucional de grande profundidade (tipicamente 16 ou 19 camadas), conhecida por usar exclusivamente kernels convolucionais pequenos (3x3) empilhados, estabelecendo a importância da profundidade na precisão.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1409.1556",
+    "tags": [
+      "visão computacional",
+      "arquitetura",
+      "cnn",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Visual Prompting",
+    "descricao": "Técnicas que usam prompts visuais (pequenas modificações ou adições na imagem de entrada) para adaptar modelos de visão pré-treinados a novas tarefas sem a necessidade de ajuste fino completo dos parâmetros do modelo.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2204.03649",
+    "tags": [
+      "visão computacional",
+      "transfer learning",
+      "llm",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Distributed Training",
+    "descricao": "O ato de treinar um modelo de Machine Learning usando vários dispositivos de computação (GPUs, TPUs) ou máquinas em paralelo, essencial para modelos muito grandes, como LLMs e modelos de difusão.",
+    "data_criacao": "2010",
+    "link": "https://www.tensorflow.org/guide/distributed_training",
+    "tags": [
+      "infraestrutura",
+      "treinamento",
+      "escalabilidade",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "AutoRegressive Models",
+    "descricao": "Uma classe de modelos que preveem o próximo item em uma sequência com base nos itens que o precederam. A maioria dos modelos generativos de texto (como a série GPT) são fundamentalmente auto-regressivos.",
+    "data_criacao": "2017",
+    "link": "https://en.wikipedia.org/wiki/Autoregressive_model",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "modelo de linguagem",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Kernel Methods",
+    "descricao": "Uma classe de algoritmos de aprendizado de máquina (como SVMs) que transformam dados em um espaço de dimensão superior para torná-los linearmente separáveis, utilizando funções kernel sem calcular explicitamente as coordenadas transformadas.",
+    "data_criacao": "1990",
+    "link": "https://en.wikipedia.org/wiki/Kernel_method",
+    "tags": [
+      "aprendizado de máquina",
+      "algoritmo",
+      "fundamentos",
+      "svm"
+    ]
+  },
+  {
+    "nome": "Haystack",
+    "descricao": "Um framework de código aberto para a construção de sistemas de Perguntas e Respostas (QA), busca semântica e RAG, permitindo a conexão de LLMs a documentos e dados privados.",
+    "data_criacao": "2020",
+    "link": "https://haystack.deepset.ai/",
+    "tags": [
+      "framework",
+      "llm",
+      "rag",
+      "busca semântica"
+    ]
+  },
+  {
+    "nome": "LlamaIndex",
+    "descricao": "Um framework de interface de dados focado em conectar Modelos de Linguagem Grandes (LLMs) a fontes de dados externas, facilitando a ingestão, indexação e recuperação para aplicações RAG.",
+    "data_criacao": "2022",
+    "link": "https://www.llamaindex.ai/",
+    "tags": [
+      "framework",
+      "rag",
+      "llm",
+      "gerenciamento de dados"
+    ]
+  },
+  {
+    "nome": "Scikit-learn",
+    "descricao": "Uma biblioteca fundamental de software livre para aprendizado de máquina em Python, oferecendo algoritmos de classificação, regressão, clustering e pré-processamento de dados.",
+    "data_criacao": "2007",
+    "link": "https://scikit-learn.org/",
+    "tags": [
+      "framework",
+      "machine learning",
+      "biblioteca python",
+      "algoritmos clássicos"
+    ]
+  },
+  {
+    "nome": "Semi-Supervised Learning (SSL)",
+    "descricao": "Uma abordagem de aprendizado de máquina que utiliza uma pequena quantidade de dados rotulados combinada com uma grande quantidade de dados não rotulados para treinamento.",
+    "data_criacao": "Anos 90",
+    "link": "https://en.wikipedia.org/wiki/Semi-supervised_learning",
+    "tags": [
+      "conceito",
+      "treinamento de modelo",
+      "otimização de dados"
+    ]
+  },
+  {
+    "nome": "Batch Normalization",
+    "descricao": "Uma técnica que normaliza as entradas de cada camada em uma rede neural, acelerando o treinamento e permitindo taxas de aprendizado mais altas.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1502.03167",
+    "tags": [
+      "otimização",
+      "redes neurais",
+      "treinamento de modelo",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "ADAM Optimizer",
+    "descricao": "Um algoritmo popular para otimização estocástica que calcula taxas de aprendizado adaptativas para diferentes parâmetros, sendo amplamente utilizado em deep learning.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1412.6980",
+    "tags": [
+      "otimização",
+      "deep learning",
+      "algoritmo de treinamento"
+    ]
+  },
+  {
+    "nome": "WuDao 2.0",
+    "descricao": "Um dos maiores modelos de linguagem multimodal do mundo, desenvolvido na China pelo Beijing Academy of Artificial Intelligence (BAAI).",
+    "data_criacao": "2021",
+    "link": "https://www.baai.ac.cn/en/wudao2.html",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "modelo multimodal",
+      "modelo chinês"
+    ]
+  },
+  {
+    "nome": "VQ-GAN",
+    "descricao": "Vector Quantized Generative Adversarial Network, um modelo generativo que combina o poder das GANs com quantização vetorial para geração eficiente de imagens de alta qualidade.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2012.09841",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "gan",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Residual Connections",
+    "descricao": "Um componente arquitetural em redes neurais que permite que a entrada de uma camada seja adicionada à sua saída, resolvendo o problema do gradiente evanescente em redes profundas.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1512.03385",
+    "tags": [
+      "arquitetura",
+      "redes neurais",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Gradient Clipping",
+    "descricao": "Uma técnica usada durante o treinamento de redes neurais, especialmente RNNs, para limitar o tamanho dos gradientes e evitar o problema de 'exploding gradients'.",
+    "data_criacao": "2012",
+    "link": "https://www.aclweb.org/anthology/P12-1087/",
+    "tags": [
+      "otimização",
+      "treinamento de modelo",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Emergent Abilities",
+    "descricao": "Habilidades inesperadas e não programadas que surgem em Modelos de Linguagem Grande (LLMs) apenas quando eles atingem uma escala de treinamento e número de parâmetros suficientes.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2206.07682",
+    "tags": [
+      "conceito",
+      "llm",
+      "escalabilidade",
+      "comportamento de modelo"
+    ]
+  },
+  {
+    "nome": "Amazon Bedrock",
+    "descricao": "Um serviço totalmente gerenciado da AWS que fornece acesso a modelos de fundação (FMs) de empresas líderes de IA através de uma API unificada, facilitando a construção de aplicações de IA generativa.",
+    "data_criacao": "2023",
+    "link": "https://aws.amazon.com/bedrock/",
+    "tags": [
+      "plataforma",
+      "nuvem",
+      "llm",
+      "serviço gerenciado"
+    ]
+  },
+  {
+    "nome": "Caffe",
+    "descricao": "Convolutional Architecture for Fast Feature Embedding, um framework de deep learning originalmente desenvolvido na UC Berkeley, conhecido por sua velocidade em aplicações de visão computacional.",
+    "data_criacao": "2014",
+    "link": "http://caffe.berkeleyvision.org/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "visão computacional"
+    ]
+  },
+  {
+    "nome": "RNN-T",
+    "descricao": "Recurrent Neural Network Transducer, uma arquitetura popular para reconhecimento de fala de ponta a ponta que não requer alinhamento forçado para treinamento.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1707.00518",
+    "tags": [
+      "processamento de voz",
+      "redes neurais",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "BLEU Score",
+    "descricao": "Bilingual Evaluation Understudy, uma métrica comum para avaliar a qualidade do texto que foi traduzido de uma linguagem natural para outra por máquinas.",
+    "data_criacao": "2002",
+    "link": "https://www.aclweb.org/anthology/P02-1040.pdf",
+    "tags": [
+      "métrica",
+      "avaliação de modelo",
+      "nlp",
+      "tradução"
+    ]
+  },
+  {
+    "nome": "MXNet",
+    "descricao": "Um framework de código aberto para deep learning, conhecido por sua eficiência e flexibilidade, suportando programação imperativa e simbólica.",
+    "data_criacao": "2016",
+    "link": "https://mxnet.apache.org/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "apache"
+    ]
+  },
+  {
+    "nome": "Self-Attention",
+    "descricao": "Um mecanismo que permite que o modelo pese a importância de diferentes partes da sequência de entrada ao codificar uma parte específica da mesma, sendo o núcleo da arquitetura Transformer.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1706.03762",
+    "tags": [
+      "arquitetura",
+      "nlp",
+      "mecanismo",
+      "transformer"
+    ]
+  },
+  {
+    "nome": "Scheduled Sampling",
+    "descricao": "Uma técnica de treinamento para modelos sequenciais (como RNNs) que tenta mitigar o desvio entre o treinamento e a inferência, misturando inputs reais com outputs gerados pelo modelo.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1506.03099",
+    "tags": [
+      "otimização",
+      "treinamento",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "Model Inversion Attack",
+    "descricao": "Um ataque de privacidade onde um adversário tenta reconstruir dados de treinamento sensíveis (como rostos) a partir dos parâmetros ou saídas de um modelo treinado.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1412.7823",
+    "tags": [
+      "segurança ia",
+      "privacidade",
+      "ataques adversários"
+    ]
+  },
+  {
+    "nome": "Feature Engineering",
+    "descricao": "O processo de usar conhecimento do domínio para criar novas variáveis ('features') a partir de dados brutos, melhorando significativamente o desempenho dos modelos de ML.",
+    "data_criacao": "Conceito antigo",
+    "link": "https://www.kdnuggets.com/2018/06/practical-guide-feature-engineering.html",
+    "tags": [
+      "conceito",
+      "pré-processamento",
+      "machine learning"
+    ]
+  },
+  {
+    "nome": "DenseNet",
+    "descricao": "Arquitetura de rede neural convolucional que conecta cada camada a todas as camadas subsequentes na mesma profundidade por meio de 'conexões densas' feed-forward.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1608.06993",
+    "tags": [
+      "arquitetura",
+      "visão computacional",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Hugging Face Datasets",
+    "descricao": "Uma biblioteca eficiente para acessar e compartilhar milhares de conjuntos de dados para tarefas de Machine Learning, com otimizações para carregamento e pré-processamento rápido.",
+    "data_criacao": "2020",
+    "link": "https://huggingface.co/datasets",
+    "tags": [
+      "ferramenta",
+      "datasets",
+      "nlp",
+      "ecossistema hf"
+    ]
+  },
+  {
+    "nome": "Prompt Injection",
+    "descricao": "Uma vulnerabilidade de segurança onde usuários maliciosos inserem instruções ou 'prompts' manipuladores para fazer o LLM ignorar instruções de sistema ou executar ações não intencionais.",
+    "data_criacao": "2022",
+    "link": "https://owasp.org/www-project-top-10-for-large-language-model-applications/llm-top-10-2023/llm01-prompt-injection",
+    "tags": [
+      "segurança ia",
+      "llm",
+      "prompt engineering",
+      "vulnerabilidade"
+    ]
+  },
+  {
+    "nome": "Riffusion",
+    "descricao": "Um modelo de IA generativa que utiliza a arquitetura de difusão estável para criar músicas e melodias a partir de prompts de texto, gerando espectrogramas que são convertidos em áudio.",
+    "data_criacao": "2022",
+    "link": "https://www.riffusion.com/",
+    "tags": [
+      "ia generativa",
+      "áudio",
+      "modelos de difusão"
+    ]
+  },
+  {
+    "nome": "Azure Machine Learning",
+    "descricao": "Uma plataforma baseada em nuvem da Microsoft para construir, treinar e implantar modelos de aprendizado de máquina em escala, fornecendo ferramentas de MLOps.",
+    "data_criacao": "2018",
+    "link": "https://azure.microsoft.com/en-us/products/machine-learning",
+    "tags": [
+      "plataforma",
+      "nuvem",
+      "mlops",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Catastrophic Forgetting",
+    "descricao": "Um fenômeno em redes neurais onde o treinamento de um modelo em uma nova tarefa causa a perda abrupta de desempenho em tarefas previamente aprendidas.",
+    "data_criacao": "1989",
+    "link": "https://www.pnas.org/doi/10.1073/pnas.86.10.3521",
+    "tags": [
+      "conceito",
+      "treinamento de modelo",
+      "lifelong learning"
+    ]
+  },
+  {
+    "nome": "Google Colab",
+    "descricao": "Um ambiente de notebook Jupyter baseado em nuvem que permite escrever e executar código Python no navegador, frequentemente usado para experimentação em Machine Learning.",
+    "data_criacao": "2017",
+    "link": "https://colab.research.google.com/",
+    "tags": [
+      "ferramenta",
+      "notebook",
+      "deep learning",
+      "plataforma"
+    ]
+  },
+  {
+    "nome": "Grok",
+    "descricao": "Modelo de linguagem grande (LLM) desenvolvido pela xAI, conhecido por seu toque de humor e por acessar informações em tempo real via plataforma X (Twitter).",
+    "data_criacao": "2023",
+    "link": "https://x.ai/grok",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "chatbot",
+      "xai"
+    ]
+  },
+  {
+    "nome": "Causal Inference",
+    "descricao": "Conjunto de métodos estatísticos e conceituais para determinar relações de causa e efeito, crucial para a criação de IAs que façam mais do que apenas predição.",
+    "data_criacao": "1990s",
+    "link": "https://www.microsoft.com/en-us/research/project/do-why/",
+    "tags": [
+      "conceito",
+      "estatística",
+      "interpretabilidade",
+      "ml"
+    ]
+  },
+  {
+    "nome": "Explainable AI (XAI)",
+    "descricao": "Campo da IA focado em desenvolver métodos que permitem aos humanos entender por que um modelo de IA tomou uma decisão específica, aumentando a confiança e a auditabilidade.",
+    "data_criacao": "2017",
+    "link": "https://www.darpa.mil/program/explainable-artificial-intelligence",
+    "tags": [
+      "ética em ia",
+      "interpretabilidade",
+      "conceito",
+      "ml"
+    ]
+  },
+  {
+    "nome": "Streamlit",
+    "descricao": "Framework de código aberto para criar e compartilhar rapidamente aplicativos da web interativos para machine learning e ciência de dados puramente em Python.",
+    "data_criacao": "2019",
+    "link": "https://streamlit.io/",
+    "tags": [
+      "ferramenta",
+      "framework",
+      "deploy",
+      "mlops"
+    ]
+  },
+  {
+    "nome": "H2O.ai",
+    "descricao": "Plataforma de código aberto e comercial que fornece algoritmos rápidos de machine learning, incluindo AutoML, focada em análise de dados e implantação em produção.",
+    "data_criacao": "2012",
+    "link": "https://www.h2o.ai/",
+    "tags": [
+      "framework",
+      "ml",
+      "plataforma",
+      "automl"
+    ]
+  },
+  {
+    "nome": "Neural Style Transfer (NST)",
+    "descricao": "Técnica que permite recombinar o conteúdo de uma imagem com o estilo de outra, usando redes neurais convolucionais (CNNs).",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1508.06576",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "arte"
+    ]
+  },
+  {
+    "nome": "Instruction Tuning",
+    "descricao": "Processo de refinamento (fine-tuning) de LLMs usando pares de instruções (prompt) e respostas ideais, para torná-los mais úteis e seguir comandos específicos.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2109.01652",
+    "tags": [
+      "llm",
+      "treinamento",
+      "ia generativa",
+      "processamento de linguagem natural"
+    ]
+  },
+  {
+    "nome": "Tree-of-Thought (ToT)",
+    "descricao": "Framework de prompting avançado que estende o CoT, permitindo que o LLM explore múltiplos caminhos de raciocínio e se autoavalie antes de gerar a resposta final, simulando busca em árvore.",
+    "data_criacao": "2023",
+    "link": "https://arxiv.org/abs/2305.10600",
+    "tags": [
+      "llm",
+      "prompt engineering",
+      "raciocínio",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "Dash by Plotly",
+    "descricao": "Framework Python de código aberto para construir painéis e aplicações analíticas de ciência de dados de alta performance, muitas vezes usado para visualizar resultados de modelos de ML.",
+    "data_criacao": "2017",
+    "link": "https://plotly.com/dash/",
+    "tags": [
+      "ferramenta",
+      "visualização de dados",
+      "deploy",
+      "ml"
+    ]
+  },
+  {
+    "nome": "Pix2Pix",
+    "descricao": "Modelo inicial e influente baseado em GANs para tradução de imagens de propósito geral (image-to-image translation), como converter esboços em fotos realistas.",
+    "data_criacao": "2016",
+    "link": "https://arxiv.org/abs/1611.07004",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "gans",
+      "modelo"
+    ]
+  },
+  {
+    "nome": "Ensemble Methods",
+    "descricao": "Técnica que combina as previsões de múltiplos modelos de machine learning (como Bagging, Boosting ou Stacking) para melhorar a robustez e a precisão geral dos resultados.",
+    "data_criacao": "1990s",
+    "link": "https://scikit-learn.org/stable/modules/ensemble.html",
+    "tags": [
+      "ml",
+      "conceito",
+      "algoritmo"
+    ]
+  },
+  {
+    "nome": "SciPy",
+    "descricao": "Biblioteca fundamental de código aberto em Python que fornece ferramentas para computação científica, otimização, integração, interpolação e processamento de sinais, essenciais em ML.",
+    "data_criacao": "2001",
+    "link": "https://scipy.org/",
+    "tags": [
+      "framework",
+      "biblioteca",
+      "matemática",
+      "ml"
+    ]
+  },
+  {
+    "nome": "Fairness in AI",
+    "descricao": "Campo de pesquisa e prática focado em garantir que os modelos de IA não perpetuem ou amplifiquem vieses sociais e não discriminem grupos específicos de pessoas.",
+    "data_criacao": "2010s",
+    "link": "https://fatconference.org/",
+    "tags": [
+      "ética em ia",
+      "conceito",
+      "governança"
+    ]
+  },
+  {
+    "nome": "ROUGE Score",
+    "descricao": "Conjunto de métricas para avaliar automaticamente a qualidade do resumo ou da tradução de texto, comparando-o com resumos de referência produzidos por humanos.",
+    "data_criacao": "2004",
+    "link": "https://www.aclweb.org/anthology/W04-1013/",
+    "tags": [
+      "nlp",
+      "métrica",
+      "avaliação",
+      "llm"
+    ]
+  },
+  {
+    "nome": "Manifold Learning",
+    "descricao": "Técnica de redução de dimensionalidade que assume que dados de alta dimensão residem em uma sub-região de baixa dimensão (manifold) e busca descobrir essa estrutura latente.",
+    "data_criacao": "2000",
+    "link": "https://scikit-learn.org/stable/modules/manifold.html",
+    "tags": [
+      "ml",
+      "conceito",
+      "pré-processamento"
+    ]
+  },
+  {
+    "nome": "Muse",
+    "descricao": "Modelo de transformação de difusão de texto para imagem do Google AI que utiliza a arquitetura Transformer e processa a geração como uma tarefa de mascaramento preditivo eficiente.",
+    "data_criacao": "2023",
+    "link": "https://muse.page/",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "transformer",
+      "modelo"
+    ]
+  },
+  {
+    "nome": "Bayesian Optimization",
+    "descricao": "Método sequencial de otimização global que utiliza o Teorema de Bayes para modelar a função de custo (geralmente métricas de desempenho) e encontrar os melhores hiperparâmetros de forma eficiente.",
+    "data_criacao": "1970s",
+    "link": "https://jmlr.org/papers/v14/snoek12a.html",
+    "tags": [
+      "ml",
+      "otimização",
+      "hiperparâmetros",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Pointer Generator Networks",
+    "descricao": "Arquitetura de rede neural para sumarização que combina a capacidade de copiar palavras diretamente do texto fonte (ponteiro) e a de gerar novas palavras via vocabulário (gerador).",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1704.04368",
+    "tags": [
+      "nlp",
+      "modelo",
+      "sumarização",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "Apache Airflow",
+    "descricao": "Plataforma para programar, monitorar e gerenciar fluxos de trabalho (DAGs), amplamente usada para orquestrar pipelines complexos de dados e machine learning (MLOps).",
+    "data_criacao": "2014",
+    "link": "https://airflow.apache.org/",
+    "tags": [
+      "mlops",
+      "ferramenta",
+      "pipeline",
+      "workflow"
+    ]
+  },
+  {
+    "nome": "Active Inference",
+    "descricao": "Framework bayesiano que modela o cérebro (ou um agente de IA) como uma máquina de predição, minimizando o 'free energy' (energia livre) para interagir com o ambiente.",
+    "data_criacao": "2000s",
+    "link": "https://www.nature.com/articles/nrn2787",
+    "tags": [
+      "conceito",
+      "neurociência",
+      "aprendizado por reforço"
+    ]
+  },
+  {
+    "nome": "Skorch",
+    "descricao": "Biblioteca que envolve o PyTorch em torno de uma interface compatível com scikit-learn, facilitando o uso de redes neurais com as ferramentas de ML tradicionais do Python.",
+    "data_criacao": "2017",
+    "link": "https://skorch.readthedocs.io/",
+    "tags": [
+      "framework",
+      "pytorch",
+      "ml"
+    ]
+  },
+  {
+    "nome": "Imbalanced Data Handling",
+    "descricao": "Conjunto de técnicas (como SMOTE, oversampling ou undersampling) usadas para treinar modelos de ML de forma eficaz quando a distribuição das classes de saída é muito desigual.",
+    "data_criacao": "1990s",
+    "link": "https://imbalanced-learn.org/stable/",
+    "tags": [
+      "ml",
+      "conceito",
+      "treinamento",
+      "pré-processamento"
+    ]
+  },
+  {
+    "nome": "Adversarial Noise",
+    "descricao": "Perturbações pequenas e muitas vezes imperceptíveis adicionadas a dados de entrada (imagens ou texto) que podem fazer com que um modelo de IA erre completamente sua predição.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1412.6572",
+    "tags": [
+      "segurança em ia",
+      "visão computacional",
+      "conceito",
+      "robustez"
+    ]
+  },
+  {
+    "nome": "Grok-1.5",
+    "descricao": "Versão aprimorada do modelo de linguagem Grok da xAI, apresentando melhorias significativas em raciocínio, resolução de problemas matemáticos e habilidades de codificação.",
+    "data_criacao": "2024",
+    "link": "https://x.ai/grok-1-5",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "chatbot",
+      "xai"
+    ]
+  },
+  {
+    "nome": "Amdahl's Law",
+    "descricao": "Princípio da ciência da computação que define o limite teórico de velocidade que pode ser alcançado ao paralelizar uma tarefa, relevante para o treinamento distribuído de grandes modelos de IA.",
+    "data_criacao": "1967",
+    "link": "https://en.wikipedia.org/wiki/Amdahl%27s_law",
+    "tags": [
+      "conceito",
+      "otimização",
+      "computação paralela",
+      "mlops"
+    ]
+  },
+  {
+    "nome": "Data Parallelism (Paralelismo de Dados)",
+    "descricao": "Técnica de treinamento distribuído onde o dataset é dividido entre múltiplas GPUs ou workers, cada um executando uma cópia idêntica do modelo, e os gradientes são sincronizados.",
+    "data_criacao": "2014",
+    "link": "https://pytorch.org/docs/stable/notes/ddp.html",
+    "tags": [
+      "treinamento distribuido",
+      "escalabilidade",
+      "deep learning",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Constitutional AI (CAI)",
+    "descricao": "Método de treinamento para IAs (especialmente LLMs) onde o modelo é guiado por um conjunto explícito de princípios ('constituição') para auto-corrigir suas respostas e garantir o alinhamento ético.",
+    "data_criacao": "2022",
+    "link": "https://www.anthropic.com/index/constitutional-ai-and-the-future-of-ai-governance",
+    "tags": [
+      "alinhamento",
+      "etica",
+      "llm",
+      "seguranca de ia"
+    ]
+  },
+  {
+    "nome": "Perplexity",
+    "descricao": "Uma métrica intrínseca em Processamento de Linguagem Natural (NLP) que mede o quão bem um modelo de linguagem prevê uma amostra de texto. Quanto menor o valor, melhor o modelo.",
+    "data_criacao": "1990s",
+    "link": "https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf",
+    "tags": [
+      "avaliacao",
+      "llm",
+      "conceito",
+      "processamento de linguagem natural"
+    ]
+  },
+  {
+    "nome": "U-Net",
+    "descricao": "Uma arquitetura de rede neural convolucional (CNN) desenvolvida inicialmente para segmentação de imagens biomédicas. Possui uma forma em 'U' que permite a combinação de informações de alta e baixa resolução.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1505.04597",
+    "tags": [
+      "visao computacional",
+      "redes neurais",
+      "segmentacao de imagem",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "BentoML",
+    "descricao": "Framework de código aberto para empacotar, versionar e implantar modelos de Machine Learning prontos para produção em qualquer ambiente de nuvem ou infraestrutura de borda.",
+    "data_criacao": "2019",
+    "link": "https://www.bentoml.com/",
+    "tags": [
+      "mlops",
+      "deployment",
+      "framework",
+      "servico de ia"
+    ]
+  },
+  {
+    "nome": "Overfitting (Sobreajuste)",
+    "descricao": "Fenômeno em que um modelo aprende o ruído e os detalhes irrelevantes dos dados de treinamento, levando a um desempenho muito bom nos dados de treino, mas muito ruim em novos dados.",
+    "data_criacao": "1980s",
+    "link": "https://builtin.com/machine-learning/overfitting",
+    "tags": [
+      "conceito",
+      "machine learning",
+      "treinamento",
+      "deep learning",
+      "avaliacao"
+    ]
+  },
+  {
+    "nome": "Hyperparameter Tuning (Otimização de Hiperparâmetros)",
+    "descricao": "Processo de seleção do conjunto ideal de hiperparâmetros (variáveis externas ao modelo, como taxa de aprendizado ou número de camadas) para maximizar o desempenho do modelo em um conjunto de validação.",
+    "data_criacao": "2000s",
+    "link": "https://www.ibm.com/topics/hyperparameter-tuning",
+    "tags": [
+      "otimizacao",
+      "machine learning",
+      "conceito",
+      "treinamento"
+    ]
+  },
+  {
+    "nome": "Latent Space (Espaço Latente)",
+    "descricao": "Uma representação de dados de baixa dimensão onde os pontos de dados que são semanticamente similares no espaço original de alta dimensão são mapeados para ficarem próximos uns dos outros.",
+    "data_criacao": "2010s",
+    "link": "https://deepai.org/machine-learning-glossary-and-terms/latent-space",
+    "tags": [
+      "ia generativa",
+      "conceito",
+      "deep learning",
+      "representacao de dados"
+    ]
+  },
+  {
+    "nome": "Gradio",
+    "descricao": "Uma biblioteca Python de código aberto que permite a criação rápida e fácil de interfaces de usuário (UIs) interativas para demonstrar modelos de machine learning e pipelines de dados.",
+    "data_criacao": "2019",
+    "link": "https://www.gradio.app/",
+    "tags": [
+      "ferramenta",
+      "deployment",
+      "mlops",
+      "prototipagem"
+    ]
+  },
+  {
+    "nome": "Tokenization",
+    "descricao": "Processo de dividir sequências de texto em unidades menores chamadas tokens (que podem ser palavras, subpalavras ou caracteres), fundamental para o processamento de LLMs.",
+    "data_criacao": "2010s",
+    "link": "https://huggingface.co/docs/transformers/tokenizer_summary",
+    "tags": [
+      "llm",
+      "nlp",
+      "conceito",
+      "pre-processamento"
+    ]
+  },
+  {
+    "nome": "Comet ML",
+    "descricao": "Plataforma MLOps para rastreamento, comparação, explicação e otimização de experimentos e modelos de Machine Learning, facilitando a colaboração e reprodutibilidade.",
+    "data_criacao": "2017",
+    "link": "https://www.comet.com/",
+    "tags": [
+      "mlops",
+      "rastreamento de experimentos",
+      "ferramenta",
+      "otimizacao"
+    ]
+  },
+  {
+    "nome": "Skip Connections (Conexões de Salto)",
+    "descricao": "Mecanismo em redes neurais profundas que permite que a entrada de uma camada seja passada diretamente para camadas posteriores, ajudando a mitigar o problema do gradiente evanescente e permitindo redes mais profundas.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1512.03385",
+    "tags": [
+      "deep learning",
+      "arquitetura",
+      "otimizacao",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "Disco Diffusion",
+    "descricao": "Uma implementação popular de modelos de difusão de código aberto, conhecida por gerar imagens de alta qualidade e estilo artístico a partir de prompts textuais complexos.",
+    "data_criacao": "2021",
+    "link": "https://github.com/alembics/disco-diffusion",
+    "tags": [
+      "ia generativa",
+      "text-to-image",
+      "modelos de difusao",
+      "arte digital"
+    ]
+  },
+  {
+    "nome": "Autoencoders",
+    "descricao": "Tipo de rede neural usada para aprendizado não supervisionado, que codifica a entrada em uma representação de baixa dimensão e depois a decodifica, buscando reconstruir a entrada original.",
+    "data_criacao": "1980s",
+    "link": "https://www.deeplearningbook.org/contents/autoencoders.html",
+    "tags": [
+      "deep learning",
+      "aprendizado nao supervisionado",
+      "ia generativa",
+      "reducao de dimensionalidade"
+    ]
+  },
+  {
+    "nome": "AUC-ROC (Area Under the Curve - Receiver Operating Characteristic)",
+    "descricao": "Métrica de avaliação gráfica usada para modelos de classificação binária, que mede a capacidade do modelo de distinguir entre as classes. A área máxima é 1.0.",
+    "data_criacao": "2000s",
+    "link": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc",
+    "tags": [
+      "avaliacao",
+      "machine learning",
+      "conceito",
+      "classificacao"
+    ]
+  },
+  {
+    "nome": "ZenML",
+    "descricao": "Framework extensível e aberto para criar pipelines de MLOps portáteis e escaláveis, permitindo a construção de fluxos de trabalho de ML agnósticos à infraestrutura.",
+    "data_criacao": "2021",
+    "link": "https://zenml.io/",
+    "tags": [
+      "mlops",
+      "framework",
+      "pipeline",
+      "kubernetes"
+    ]
+  },
+  {
+    "nome": "Gradient Clipping (Corte de Gradiente)",
+    "descricao": "Técnica de otimização de treinamento que limita o valor máximo dos gradientes para evitar o problema de 'explosão do gradiente' (exploding gradients), comum em RNNs e Transformers.",
+    "data_criacao": "2013",
+    "link": "https://paperswithcode.com/method/gradient-clipping",
+    "tags": [
+      "otimizacao",
+      "deep learning",
+      "treinamento",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "Transformer Decoder",
+    "descricao": "A parte da arquitetura Transformer responsável pela geração sequencial da saída. Ela usa atenção mascarada para garantir que a previsão de um token dependa apenas dos tokens gerados anteriormente.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1706.03762",
+    "tags": [
+      "arquitetura",
+      "llm",
+      "deep learning",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "Streamlit",
+    "descricao": "Um framework Python que permite aos engenheiros de dados e cientistas criar rapidamente aplicativos web interativos e painéis (dashboards) usando apenas código Python.",
+    "data_criacao": "2019",
+    "link": "https://streamlit.io/",
+    "tags": [
+      "ferramenta",
+      "prototipagem",
+      "deployment",
+      "dataviz"
+    ]
+  },
+  {
+    "nome": "Dynamic Quantization",
+    "descricao": "Uma forma de otimização de inferência onde os tensores de peso são quantizados antecipadamente, mas os tensores de ativação são quantizados dinamicamente durante o tempo de execução (runtime) do modelo.",
+    "data_criacao": "2019",
+    "link": "https://pytorch.org/docs/stable/quantization.html",
+    "tags": [
+      "otimizacao",
+      "inferencia",
+      "deep learning",
+      "aceleracao"
+    ]
+  },
+  {
+    "nome": "Apache Singa",
+    "descricao": "Framework de Deep Learning flexível e extensível, projetado para treinamento em sistemas distribuídos e com foco na escalabilidade e eficiência em hardware heterogêneo.",
+    "data_criacao": "2015",
+    "link": "https://singa.apache.org/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "treinamento distribuido",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Latent Diffusion Models (LDM)",
+    "descricao": "Classe de modelos de difusão que realiza a difusão e remoção de ruído em um espaço latente comprimido, e não no espaço de pixels, resultando em treinamento e inferência muito mais rápidos.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2112.10752",
+    "tags": [
+      "ia generativa",
+      "modelos de difusao",
+      "visao computacional",
+      "compressao latente"
+    ]
+  },
+  {
+    "nome": "Catastrophic Forgetting (Esquecimento Catastrófico)",
+    "descricao": "Fenômeno em que uma rede neural, ao aprender uma nova tarefa, perde rapidamente o conhecimento adquirido em tarefas anteriores, especialmente em contextos de Aprendizado Contínuo.",
+    "data_criacao": "1989",
+    "link": "https://www.nature.com/articles/s42256-020-00277-x",
+    "tags": [
+      "deep learning",
+      "conceito",
+      "treinamento",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "Manifold Learning (Aprendizado de Múltiplas)",
+    "descricao": "Um ramo de aprendizado não supervisionado que busca descobrir a estrutura de baixa dimensionalidade ('o manifold') intrínseca em dados que residem em um espaço de alta dimensionalidade.",
+    "data_criacao": "2000s",
+    "link": "https://scikit-learn.org/stable/modules/manifold.html",
+    "tags": [
+      "machine learning",
+      "reducao de dimensionalidade",
+      "aprendizado nao supervisionado",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "PaLM 2 (Pathways Language Model 2)",
+    "descricao": "Modelo de linguagem grande (LLM) da Google, sucessor do PaLM, que demonstra melhorias significativas em raciocínio, codificação, e capacidades multilíngues, sendo mais eficiente que a versão anterior.",
+    "data_criacao": "2023",
+    "link": "https://ai.google/static/documents/palm2techreport.pdf",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "google",
+      "processamento de linguagem natural"
+    ]
+  },
+  {
+    "nome": "LSTM (Long Short-Term Memory)",
+    "descricao": "Um tipo de Rede Neural Recorrente (RNN) projetada para aprender dependências de longo prazo em tarefas de sequências, superando o problema do gradiente evanescente nas RNNs tradicionais.",
+    "data_criacao": "1997",
+    "link": "https://www.bioinf.jku.at/publications/older/2604.pdf",
+    "tags": [
+      "redes neurais",
+      "processamento de linguagem natural",
+      "sequências temporais",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Layer Normalization",
+    "descricao": "Uma técnica de normalização aplicada em redes neurais, crucial para estabilizar e acelerar o treinamento de arquiteturas profundas, especialmente Transformers e LLMs.",
+    "data_criacao": "2016",
+    "link": "https://arxiv.org/abs/1607.06450",
+    "tags": [
+      "otimização",
+      "deep learning",
+      "transformer",
+      "componente arquitetural"
+    ]
+  },
+  {
+    "nome": "Gemma",
+    "descricao": "Uma família de modelos de linguagem abertos e leves desenvolvidos pelo Google DeepMind, baseados na mesma pesquisa e tecnologia que impulsionam os modelos Gemini.",
+    "data_criacao": "2024",
+    "link": "https://blog.google/technology/developers/gemma-open-models/",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "open source",
+      "google"
+    ]
+  },
+  {
+    "nome": "Model Drift",
+    "descricao": "O fenômeno onde o desempenho preditivo de um modelo de IA se degrada ao longo do tempo devido a mudanças nas características dos dados de entrada (drift de dados) ou nas relações entre variáveis (drift conceitual).",
+    "data_criacao": "2017",
+    "link": "https://towardsdatascience.com/model-drift-in-machine-learning-7f998ac2b5f6",
+    "tags": [
+      "mlops",
+      "monitoramento",
+      "conceito",
+      "deploy"
+    ]
+  },
+  {
+    "nome": "Activation Checkpointing",
+    "descricao": "Uma técnica de otimização de memória que reduz o consumo de RAM durante o treinamento de redes neurais muito grandes, recomputando as ativações na passagem de volta (backward pass) em vez de armazená-las na passagem de ida (forward pass).",
+    "data_criacao": "2018",
+    "link": "https://arxiv.org/abs/1806.01237",
+    "tags": [
+      "otimização",
+      "treinamento",
+      "deep learning",
+      "eficiência"
+    ]
+  },
+  {
+    "nome": "Denoising Diffusion Probabilistic Models (DDPM)",
+    "descricao": "A arquitetura fundamental que popularizou os Modelos de Difusão, treinando uma rede neural para reverter um processo de ruído gradual, gerando dados de alta qualidade (imagens, áudio, etc.).",
+    "data_criacao": "2020",
+    "link": "https://arxiv.org/abs/2006.11239",
+    "tags": [
+      "ia generativa",
+      "visão computacional",
+      "modelo de difusão",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Exploração Epsilon-Greedy",
+    "descricao": "Uma política de exploração em Aprendizado por Reforço onde o agente escolhe a melhor ação conhecida (exploração gananciosa) com probabilidade (1-ε) e escolhe uma ação aleatória (exploração) com probabilidade ε.",
+    "data_criacao": "1998",
+    "link": "https://www.oreilly.com/library/view/reinforcement-learning-an/9780262250106/pr24.html",
+    "tags": [
+      "aprendizado por reforço",
+      "algoritmo",
+      "conceito",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "SHAP (SHapley Additive exPlanations)",
+    "descricao": "Uma técnica de Interpretabilidade (XAI) baseada na teoria dos jogos de Shapley, que calcula a contribuição marginal de cada feature (característica) para a previsão final do modelo.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1705.07874",
+    "tags": [
+      "interpretabilidade",
+      "xai",
+      "análise de dados",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Data Curation",
+    "descricao": "O processo de selecionar, limpar, transformar e manter conjuntos de dados para garantir sua qualidade, acessibilidade e adequação para o treinamento de modelos de IA, sendo vital para o desempenho de LLMs grandes.",
+    "data_criacao": "2010",
+    "link": "https://www.ibm.com/topics/data-curation",
+    "tags": [
+      "pré-processamento",
+      "ciência de dados",
+      "pipeline de ml",
+      "dados"
+    ]
+  },
+  {
+    "nome": "Masked Autoencoders (MAE)",
+    "descricao": "Um método de aprendizado auto-supervisionado para visão computacional que treina modelos (como Vision Transformers) através da reconstrução de patches de imagens que foram aleatoriamente mascarados.",
+    "data_criacao": "2021",
+    "link": "https://arxiv.org/abs/2111.06377",
+    "tags": [
+      "visão computacional",
+      "aprendizado auto-supervisionado",
+      "transformer",
+      "pré-treinamento"
+    ]
+  },
+  {
+    "nome": "Self-Consistency",
+    "descricao": "Uma técnica de prompting avançada que amostra múltiplas cadeias de raciocínio (Chain-of-Thought) e, em seguida, seleciona a resposta final por meio de votação majoritária, aumentando a precisão em tarefas complexas.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2203.11171",
+    "tags": [
+      "llm",
+      "prompt engineering",
+      "raciocínio",
+      "técnica de inferência"
+    ]
+  },
+  {
+    "nome": "SiLU (Sigmoid Linear Unit)",
+    "descricao": "Uma função de ativação popular (também conhecida como Swish) utilizada em redes neurais profundas, que é suave e não monotônica, mostrando melhor desempenho que ReLU em muitas tarefas de deep learning.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1710.05941",
+    "tags": [
+      "deep learning",
+      "função de ativação",
+      "otimização",
+      "componente arquitetural"
+    ]
+  },
+  {
+    "nome": "Theano",
+    "descricao": "Uma biblioteca pioneira de Python que permitia definir, otimizar e avaliar eficientemente expressões matemáticas envolvendo arrays multidimensionais, sendo um dos primeiros frameworks de deep learning.",
+    "data_criacao": "2007",
+    "link": "http://deeplearning.net/software/theano/",
+    "tags": [
+      "framework",
+      "deep learning",
+      "histórico",
+      "biblioteca python"
+    ]
+  },
+  {
+    "nome": "Model Safety and Robustness",
+    "descricao": "O campo de pesquisa focado em garantir que os modelos de IA, especialmente os generativos, se comportem de maneira previsível, evitem gerar conteúdo perigoso (jailbreaking) e sejam resistentes a ataques e entradas maliciosas.",
+    "data_criacao": "2019",
+    "link": "https://www.nist.gov/artificial-intelligence/ai-risk-management-framework",
+    "tags": [
+      "ética em ia",
+      "segurança",
+      "alinhamento",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Softmax Temperature",
+    "descricao": "Um hiperparâmetro aplicado à função Softmax no final de modelos de linguagem, usado para controlar a aleatoriedade (entropia) das distribuições de probabilidade dos tokens gerados, afetando a criatividade e coerência da saída.",
+    "data_criacao": "2015",
+    "link": "https://arxiv.org/abs/1511.06038",
+    "tags": [
+      "llm",
+      "inferência",
+      "hiperparâmetro",
+      "sampling"
+    ]
+  },
+  {
+    "nome": "Phi-3",
+    "descricao": "Uma família de modelos de linguagem pequenos (SLMs) desenvolvida pela Microsoft, otimizada para ser eficiente e de alto desempenho em dispositivos de ponta (edge computing) e ambientes com recursos limitados.",
+    "data_criacao": "2024",
+    "link": "https://www.microsoft.com/en-us/research/blog/phi-3-a-family-of-open-models/",
+    "tags": [
+      "llm",
+      "modelo pequeno",
+      "microsoft",
+      "ia generativa"
+    ]
+  },
+  {
+    "nome": "LARS (Layer-wise Adaptive Rate Scaling)",
+    "descricao": "Um algoritmo de otimização projetado para treinar redes neurais profundas com tamanhos de batch muito grandes, ajustando a taxa de aprendizado para cada camada independentemente.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1708.03888",
+    "tags": [
+      "otimização",
+      "deep learning",
+      "treinamento distribuído",
+      "algoritmo"
+    ]
+  },
+  {
+    "nome": "Tacotron 2",
+    "descricao": "Um modelo neural de voz para texto (Text-to-Speech - TTS) que gera fala humana altamente natural a partir de texto, combinando um modelo de sequência-para-sequência com um vocoder WaveNet.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1712.05884",
+    "tags": [
+      "ia generativa",
+      "áudio",
+      "text-to-speech",
+      "nlp"
+    ]
+  },
+  {
+    "nome": "LabelImg",
+    "descricao": "Uma ferramenta gráfica de código aberto para anotação de imagens, usada para criar caixas delimitadoras para objetos em imagens (formato PASCAL VOC ou YOLO), essencial para o treinamento de modelos de detecção de objetos.",
+    "data_criacao": "2017",
+    "link": "https://github.com/tzutalin/labelImg",
+    "tags": [
+      "visão computacional",
+      "ferramenta",
+      "anotação de dados",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Evolutionary Algorithms",
+    "descricao": "Uma classe de algoritmos de otimização global que imitam processos da evolução biológica (seleção, mutação, recombinação) para encontrar soluções aproximadas para problemas complexos de otimização.",
+    "data_criacao": "1975",
+    "link": "https://mitpress.mit.edu/books/introduction-evolutionary-computing",
+    "tags": [
+      "otimização",
+      "algoritmo",
+      "meta-heurística",
+      "aprendizado de máquina"
+    ]
+  },
+  {
+    "nome": "Contrastive Learning",
+    "descricao": "Um método de aprendizado auto-supervisionado que ensina um modelo a distinguir entre pares de dados positivos (semelhantes) e negativos (diferentes), maximizando a concordância entre as representações dos pares positivos.",
+    "data_criacao": "2019",
+    "link": "https://arxiv.org/abs/2004.09910",
+    "tags": [
+      "aprendizado auto-supervisionado",
+      "visão computacional",
+      "representação de dados",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Token Embedding",
+    "descricao": "A representação vetorial de palavras ou subunidades de texto (tokens), que codifica seu significado semântico e contextual em um espaço de alta dimensão, fundamental para o funcionamento de todos os LLMs modernos.",
+    "data_criacao": "2013",
+    "link": "https://dl.acm.org/doi/10.5555/2999468.2999519",
+    "tags": [
+      "processamento de linguagem natural",
+      "llm",
+      "representação de dados",
+      "conceito fundamental"
+    ]
+  },
+  {
+    "nome": "KServe",
+    "descricao": "Uma plataforma de código aberto baseada em Kubernetes que fornece uma infraestrutura padronizada para servir modelos de Machine Learning em produção, suportando auto-scaling, canary rollouts e otimização de inferência.",
+    "data_criacao": "2019",
+    "link": "https://kserve.github.io/",
+    "tags": [
+      "mlops",
+      "deploy",
+      "serviço de modelo",
+      "kubernetes"
+    ]
+  },
+  {
+    "nome": "YaRN (Yet another RoPE Next)",
+    "descricao": "Uma técnica de ajuste fino que estende o Context Window de modelos de linguagem baseados em Transformers, modificando as Embeddings de Posição Rotacional (RoPE) para lidar com sequências muito mais longas de forma eficiente.",
+    "data_criacao": "2023",
+    "link": "https://arxiv.org/abs/2309.00071",
+    "tags": [
+      "llm",
+      "otimização",
+      "context window",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Transfer Learning in Vision",
+    "descricao": "O conceito de reutilizar um modelo pré-treinado em um grande conjunto de dados (como ImageNet) e ajustá-lo (fine-tuning) para uma nova tarefa específica, economizando tempo de treinamento e melhorando o desempenho, especialmente em casos de poucos dados.",
+    "data_criacao": "2014",
+    "link": "https://arxiv.org/abs/1411.1792",
+    "tags": [
+      "visão computacional",
+      "aprendizado de máquina",
+      "conceito",
+      "treinamento"
+    ]
+  },
+  {
+    "nome": "Segment Anything Model (SAM)",
+    "descricao": "Modelo de visão computacional da Meta que permite a segmentação de imagens 'zero-shot', identificando qualquer objeto em uma imagem ou vídeo com base em prompts.",
+    "data_criacao": "2023",
+    "link": "https://ai.meta.com/research/publications/segment-anything/",
+    "tags": [
+      "visão computacional",
+      "modelo fundacional",
+      "segmentação de imagem",
+      "meta"
+    ]
+  },
+  {
+    "nome": "Direct Preference Optimization (DPO)",
+    "descricao": "Um método de ajuste fino (finetuning) para LLMs que simplifica o uso de preferências humanas, substituindo o custoso método de RLHF (Aprendizado por Reforço a Partir de Feedback Humano).",
+    "data_criacao": "2023",
+    "link": "https://arxiv.org/abs/2305.18290",
+    "tags": [
+      "llm",
+      "ajuste fino",
+      "otimização",
+      "treinamento"
+    ]
+  },
+  {
+    "nome": "Gemma",
+    "descricao": "Uma família de modelos abertos e leves da Google desenvolvida com base na mesma pesquisa e tecnologia usadas para criar os modelos Gemini.",
+    "data_criacao": "2024",
+    "link": "https://blog.google/technology/developers/gemma-open-models/",
+    "tags": [
+      "llm",
+      "ia generativa",
+      "modelo aberto",
+      "google"
+    ]
+  },
+  {
+    "nome": "Multi-Head Attention",
+    "descricao": "Componente crucial da arquitetura Transformer que permite ao modelo processar informações de diferentes subespaços de representação simultaneamente, melhorando a capacidade de focar em partes relevantes da entrada.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1706.03762",
+    "tags": [
+      "arquitetura transformer",
+      "mecanismo de atenção",
+      "deep learning",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "FID (Frechet Inception Distance)",
+    "descricao": "Métrica amplamente utilizada para avaliar a qualidade das imagens geradas por modelos de IA (como GANs e Modelos de Difusão), comparando a distribuição das features entre imagens reais e geradas.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1706.08500",
+    "tags": [
+      "métrica",
+      "ia generativa",
+      "avaliação de modelo",
+      "visão computacional"
+    ]
+  },
+  {
+    "nome": "Knowledge Tracing (KT)",
+    "descricao": "Aplicação de Machine Learning focada em prever o conhecimento do aluno sobre um determinado material ao longo do tempo, fundamental para sistemas de aprendizado adaptativo.",
+    "data_criacao": "1995",
+    "link": "https://dl.acm.org/doi/10.1007/BF00929214",
+    "tags": [
+      "aplicação de ia",
+      "educação",
+      "machine learning",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "VALL-E",
+    "descricao": "Modelo de Text-to-Speech (TTS) da Microsoft capaz de sintetizar fala em diferentes vozes com alta fidelidade, exigindo apenas uma amostra de áudio de 3 segundos da voz alvo (zero-shot TTS).",
+    "data_criacao": "2023",
+    "link": "https://valle-demo.github.io/",
+    "tags": [
+      "ia generativa",
+      "áudio",
+      "text-to-speech",
+      "microsoft"
+    ]
+  },
+  {
+    "nome": "Dropout",
+    "descricao": "Técnica de regularização onde neurônios selecionados aleatoriamente são temporariamente ignorados durante o treinamento de uma rede neural, prevenindo o overfitting.",
+    "data_criacao": "2014",
+    "link": "https://jmlr.org/papers/v15/srivastava14a.html",
+    "tags": [
+      "deep learning",
+      "regularização",
+      "otimização",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Seldon Core",
+    "descricao": "Plataforma de código aberto para implantação (deployment) de modelos de Machine Learning em ambientes Kubernetes, focada em escala, monitoramento e gestão de inferência.",
+    "data_criacao": "2018",
+    "link": "https://www.seldon.io/open-source/seldon-core/",
+    "tags": [
+      "mlops",
+      "deployment",
+      "framework",
+      "kubernetes"
+    ]
+  },
+  {
+    "nome": "Ax",
+    "descricao": "Plataforma de otimização de código aberto desenvolvida pelo Facebook (Meta) para auxiliar na otimização de experimentos científicos e parâmetros de modelos de Machine Learning (Otimização Bayesiana).",
+    "data_criacao": "2019",
+    "link": "https://ax.dev/",
+    "tags": [
+      "otimização bayesiana",
+      "framework",
+      "experimentação",
+      "meta"
+    ]
+  },
+  {
+    "nome": "Causal Masking",
+    "descricao": "Um mecanismo de mascaramento usado em modelos auto-regressivos (como os decoders Transformer) que garante que a previsão de um token dependa apenas dos tokens que o precederam, crucial para a geração sequencial.",
+    "data_criacao": "2017",
+    "link": "https://arxiv.org/abs/1706.03762",
+    "tags": [
+      "arquitetura transformer",
+      "llm",
+      "conceito",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Model Pruning",
+    "descricao": "Técnica de compressão de modelos de IA que remove pesos ou neurônios menos importantes da rede neural, reduzindo o tamanho do modelo e acelerando a inferência sem perda significativa de desempenho.",
+    "data_criacao": "1990",
+    "link": "https://arxiv.org/abs/1606.09274",
+    "tags": [
+      "otimização",
+      "compressão de modelo",
+      "deep learning",
+      "conceito"
+    ]
+  },
+  {
+    "nome": "Vicuna",
+    "descricao": "Um LLM chatbot de código aberto ajustado a partir do Llama, treinado em conversas de usuários coletadas de sites como ShareGPT, notório por sua alta performance de diálogo.",
+    "data_criacao": "2023",
+    "link": "https://vicuna.lmsys.org/",
+    "tags": [
+      "llm",
+      "chatbot",
+      "modelo aberto",
+      "ajuste fino"
+    ]
+  },
+  {
+    "nome": "MLIR (Multi-Level Intermediate Representation)",
+    "descricao": "Um projeto de infraestrutura de compiladores de código aberto desenvolvido pelo Google que visa unificar a otimização de representações de modelos em diferentes frameworks e hardwares de Machine Learning.",
+    "data_criacao": "2019",
+    "link": "https://mlir.llvm.org/",
+    "tags": [
+      "framework",
+      "otimização",
+      "infraestrutura",
+      "compilador"
+    ]
+  },
+  {
+    "nome": "Softmax",
+    "descricao": "Uma função de ativação utilizada na camada de saída de redes neurais para tarefas de classificação. Ela transforma um vetor de números reais em uma distribuição de probabilidades.",
+    "data_criacao": "1989",
+    "link": "https://cs.stanford.edu/people/eroberts/courses/cs227/resources/softmax.pdf",
+    "tags": [
+      "função de ativação",
+      "deep learning",
+      "conceito",
+      "classificação"
+    ]
+  },
+  {
+    "nome": "PolyCoder",
+    "descricao": "Um modelo de linguagem grande e aberto treinado em 12 linguagens de programação, destinado à geração de código e assistência à programação.",
+    "data_criacao": "2022",
+    "link": "https://github.com/VHellendoorn/PolyCoder",
+    "tags": [
+      "llm",
+      "código generativo",
+      "modelo aberto",
+      "programação"
+    ]
+  },
+  {
+    "nome": "Panel",
+    "descricao": "Uma biblioteca Python de código aberto que permite a criação de painéis e aplicativos web interativos para visualização de dados e modelos de Machine Learning, suportando diferentes frameworks de ML.",
+    "data_criacao": "2019",
+    "link": "https://panel.holoviz.org/",
+    "tags": [
+      "framework",
+      "visualização",
+      "aplicação web",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Cross-Entropy Loss",
+    "descricao": "Função de perda (loss function) fundamental, amplamente usada em tarefas de classificação. Mede o quão bem a distribuição de probabilidade prevista pelo modelo se alinha com a distribuição verdadeira.",
+    "data_criacao": "1997",
+    "link": "https://deeplearning.mit.edu/unit5/losses/",
+    "tags": [
+      "deep learning",
+      "função de perda",
+      "conceito",
+      "classificação"
+    ]
+  },
+  {
+    "nome": "Karras Diffusion Models (KDM)",
+    "descricao": "Conjunto de métodos propostos por Tero Karras (NVIDIA) para melhorar o treinamento e, principalmente, a amostragem de modelos de difusão, levando a resultados de imagem de maior qualidade com menos etapas de inferência.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2206.00364",
+    "tags": [
+      "modelo de difusão",
+      "ia generativa",
+      "visão computacional",
+      "otimização"
+    ]
+  },
+  {
+    "nome": "Apache Beam ML",
+    "descricao": "Extensão do Apache Beam que permite a criação de pipelines unificados para pré-processamento, treinamento e inferência de modelos de Machine Learning em diferentes motores de execução.",
+    "data_criacao": "2022",
+    "link": "https://beam.apache.org/documentation/ml/",
+    "tags": [
+      "framework",
+      "mlops",
+      "processamento de dados",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Kernel Trick",
+    "descricao": "Técnica fundamental em Machine Learning que permite que algoritmos lineares (como SVMs) operem em um espaço de feature de alta dimensão sem calcular explicitamente as coordenadas nesse espaço (evitando alto custo computacional).",
+    "data_criacao": "1992",
+    "link": "https://www.csie.ntu.edu.tw/~cjlin/libsvm/doc/svm_tutorial.pdf",
+    "tags": [
+      "machine learning clássico",
+      "conceito",
+      "otimização",
+      "svm"
+    ]
+  },
+  {
+    "nome": "ConvNeXt",
+    "descricao": "Arquitetura de rede neural convolucional (CNN) moderna que revisita as estruturas clássicas das CNNs (como ResNet) e as moderniza com base em lições aprendidas das arquiteturas Transformer, resultando em desempenho aprimorado em Visão Computacional.",
+    "data_criacao": "2022",
+    "link": "https://arxiv.org/abs/2201.03545",
+    "tags": [
+      "visão computacional",
+      "cnn",
+      "deep learning",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Reservoir Computing",
+    "descricao": "Um tipo de Redes Neurais Recorrentes (RNNs) que treina apenas a camada de saída, mantendo as conexões e pesos das camadas internas (o 'reservatório') fixos. Usado em processamento de séries temporais.",
+    "data_criacao": "2002",
+    "link": "https://www.reservoir-computing.org/",
+    "tags": [
+      "deep learning",
+      "séries temporais",
+      "rnn",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Self-Training",
+    "descricao": "Uma técnica de aprendizado semi-supervisionado onde um modelo treinado com dados rotulados gera 'pseudo-rótulos' para dados não rotulados e, em seguida, é retreinado usando o conjunto completo de dados rotulados e pseudo-rotulados.",
+    "data_criacao": "1995",
+    "link": "https://www.cs.cmu.edu/~tom/mlbook/NBayes.pdf",
+    "tags": [
+      "aprendizado semi-supervisionado",
+      "conceito",
+      "machine learning",
+      "treinamento"
+    ]
+  },
+  {
+    "nome": "Dynamic Programming in RL",
+    "descricao": "Conjunto de algoritmos em Aprendizado por Reforço (RL) que assumem um modelo perfeito do ambiente (MDP), utilizados para calcular políticas ótimas através de Avaliação de Política e Melhoria de Política (ex: Iteração de Valor).",
+    "data_criacao": "1957",
+    "link": "https://www.davidsilver.uk/book/chap3-4.pdf",
+    "tags": [
+      "aprendizado por reforço",
+      "algoritmo",
+      "conceito",
+      "rl"
+    ]
+  }
+]
